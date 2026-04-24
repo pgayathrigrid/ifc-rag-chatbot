@@ -1,0 +1,995 @@
+
+Page 4
+Table 1:
+[['Investments Highlights (Section III)', '', '', '', '', ''], ['Own Account Commitments\n(Long-Term Finance (LTF) and Short-Term\nFinance (STF) Commitments)', '', '', '$\x08 31,654', '$\x08 27,704', '$\x08 22,228'], ['Core Mobilization\n(LTF and STF Commitments)a', '', '', '24,433', '16,025', '11,363'], ['Disbursements', '', '', '19,147', '18,689', '13,198'], ['Statement of Operations', '', '', '', '', ''], ['Net income (loss) (Section VIII)', '', '', '$\x08 1,485', '$\x08 672', '$ (464)'], ['Income available for designationb (Section II)', '', '', '1,558', '681', '382'], ['AS OF THE YEAR ENDED JUNE 30\n(US$ in millions) 2024 2023', None, None, None, None, None], ['Balance Sheet', '', '', '', '', ''], ['Total assets', '', '', '$108,187', '$\x08110,547', ''], ['Liquid assetsc (Section IV)', '', '', '37,734', '40,120', ''], ['Investments (Section III)', '', '', '58,747', '51,502', ''], ['Borrowings outstanding, including fair value\nadjustments (Section V)', '', '', '55,755', '52,443', ''], ['Total capital (Section V)', '', '', '37,472', '35,038', '']]
+--------------------------------------------------
+
+Page 4
+Table 2:
+[['Capital Utilization Ratio', '', '', '', '', ''], ['Capital Utilization Ratio (CUR)', '', '', '60.5%', '60.7%', '']]
+--------------------------------------------------
+
+Page 6
+Table 1:
+[['', None], [None, '']]
+--------------------------------------------------
+
+Page 8
+Table 1:
+[['Net income (loss)', '$\x08 1,485', '$\x08 672', '$ ( 464)'], ['Adjustments to reconcile Net income (loss) to Income Available for Designations', '', '', ''], ['Unrealized losses (gains) on investments', '49', '(41)', '740'], ['Unrealized losses on borrowings', '54', '50', '106'], ['PCRF Income', '(30)', '–', '–'], ['Income Available for Designations', '$\x08 1,558', '$\x08 681', '$ 382']]
+--------------------------------------------------
+
+Page 9
+Table 1:
+[['Consolidated statement of operations highlights:', '', '', ''], ['Income from loans and guarantees, including realized gains and losses on loans\nand associated derivatives', '$ 3,204', '$ 2,290', '$ 1,156'], ['Provision for losses on loans, off-balance sheet credit exposures\nand other receivables', '(9)', '(22)', '(126)'], ['Income from equity investments and associated derivatives', '142', '191', '208'], ['Income from debt securities, including realized gains and losses on debt securities\nand associated derivatives', '811', '518', '414'], ['Provision for losses on available-for-sale debt securities', '(12)', '(7)', '(14)'], ['Income (loss) from liquid asset trading activities', '2,391', '1,464', '(413)'], ['Charges on borrowings', '(3,815)', '(2,598)', '(302)'], ['Other income', '587', '518', '419'], ['Other expenses', '(1,827)', '(1,721)', '(1,653)'], ['Foreign currency transaction (losses) gains on non-trading activities', '(115)', '(86)', '76'], ['Income (loss) before net unrealized gains and losses on non-trading financial\ninstruments accounted for at fair value and grants to IDA', '$ 1,357', '$ 547', '$ (235)'], ['Net unrealized gains (losses) on non-trading financial instruments accounted for\nat fair value', '128', '125', '(229)'], ['Net income (loss)', '$ 1,485', '$ 672', '$ (464)'], ['AS OF THE YEAR ENDED JUNE 30\n(US$ in millions) 2024 2023', None, None, None], [None, None, None, ''], ['Consolidated balance sheet highlights:', '', '', ''], ['Total assets', '$108,187', '$ 110,547', ''], ['Liquid assetsa', '37,734', '40,120', ''], ['Investments', '58,747', '51,502', ''], ['Borrowings outstanding, including fair value adjustments', '55,755', '52,443', ''], ['Total capital', '$ 37,472', '$ 35,038', ''], ['of which', '', '', ''], ['Undesignated retained earnings', '$ 13,133', '$ 11,589', ''], ['Designated retained earnings', '162', '221', ''], ['Accumulated other comprehensive income (AOCI)', '957', '632', ''], ['Paid-in capital', '23,220', '22,596', '']]
+--------------------------------------------------
+
+Page 9
+Table 2:
+[['Overall liquidity ratioa', '', '', '', '81.0%', '103.8%'], ['Debt-to-equity ratiob', '', '', '', '1.7', '1.6'], ['Total reserve against losses on loans to total disbursed portfolioc', None, '', '', '2.9%', '3.7%'], ['Capital measures:', '', '', '', '', ''], ['Capital Availabled', '', '', '', '$ 36.6', '$ 34.8'], ['Capital Requirede', '', '', '', '22.2', '21.1'], ['Capital Utilization Ratiof', '', '', '', '60.5%', '60.7%']]
+--------------------------------------------------
+
+Page 14
+Table 1:
+[['Loans', '$ 17,822', '$ 14,135', '$ 3,687'], ['Equity investments', '1,722', '1,761', '(39)'], ['Guarantees', '1,857', '704', '1,153'], ['Client risk management', '57', '77', '(20)'], ['Total Long-Term Finance Own Account Commitments', '$ 21,458', '$ 16,677', '$ 4,781'], ['Long-Term Finance Core Mobilization', None, None, None], ['Syndication', '$ 8,079', '$ 6,165', '$ 1,914'], ['Advisory and upstream', '4,708', '3,687', '1,021'], ['Anchor investment', '4,202', '1,580', '2,622'], ['Trade finance', '1,824', '2,163', '(339)'], ['Third-party-managed funds', '2,720', '1,142', '1,578'], ['IFC-managed funds', '16', '15', '1'], ['Guarantee', '600', '—', '600'], ['Other', '355', '277', '78'], ['Total Long-Term Finance Core Mobilizationa', '$ 22,504', '$15,029', '$ 7,475'], ['Total Long-Term Finance Commitments', '$ 43,962', '$31,706', '$12,256'], ['', None, None, None], ['Short-Term Finance Commitments', '', '', ''], ['Short-Term Finance Own Account', '$ 10,196', '$ 11,027', '$ (831)'], ['Short-Term Finance Core Mobilization', '1,929', '996', '933'], ['Total Short-Term Finance Commitments', '$ 12,125', '$ 12,023', '$ 102'], ['Total Commitmentsb (Own Account and Core Mobilization)', '$ 56,087', '$ 43,729', '$12,358']]
+--------------------------------------------------
+
+Page 14
+Table 2:
+[['Loans', '$ 14,482', '$ 13,838', '$ 644'], ['Equity investments', '1,535', '1,033', '502'], ['Debt securities', '3,130', '3,818', '(688)'], ['Total Investment Disbursements', '$ 19,147', '$ 18,689', '$ 458']]
+--------------------------------------------------
+
+Page 15
+Table 1:
+[['Loans', '$ 37,726', '$32,886', '', '63%', '62%'], ['Equity investments', '10,910', '10,371', '', '18%', '20%'], ['Debt securities', '11,221', '9,556', '', '19%', '18%'], ['Total Investment Disbursements', '$59,857', '$52,813', '', '100%', '100%']]
+--------------------------------------------------
+
+Page 15
+Table 2:
+[['', '18.9']]
+--------------------------------------------------
+
+Page 15
+Table 3:
+[['', '17.1']]
+--------------------------------------------------
+
+Page 15
+Table 4:
+[['', '18.8']]
+--------------------------------------------------
+
+Page 15
+Table 5:
+[['', '16.0']]
+--------------------------------------------------
+
+Page 15
+Table 6:
+[['', '12.1']]
+--------------------------------------------------
+
+Page 15
+Table 7:
+[['', '10.2']]
+--------------------------------------------------
+
+Page 15
+Table 8:
+[['', '6.7']]
+--------------------------------------------------
+
+Page 15
+Table 9:
+[['', '6.1']]
+--------------------------------------------------
+
+Page 15
+Table 10:
+[['', '3.4']]
+--------------------------------------------------
+
+Page 15
+Table 11:
+[['', '3.5']]
+--------------------------------------------------
+
+Page 16
+Table 1:
+[['Finance & Insurance', '$26,503', '$23,445', '', '44%', '44%'], ['Collective Investment Vehicles', '5,216', '4,745', '', '9%', '9%'], ['Electric Power', '4,719', '4,141', '', '8%', '8%'], ['Chemicals', '2,683', '2,527', '', '5%', '5%'], ['Construction and Real Estate', '2,383', '1,978', '', '4%', '4%'], ['Transportation and Warehousing', '2,332', '2,076', '', '4%', '4%'], ['Industrial & Consumer Products', '2,199', '1,578', '', '4%', '3%'], ['Agriculture and Forestry', '1,699', '1,622', '', '3%', '3%'], ['Information', '1,615', '1,236', '', '3%', '2%'], ['Wholesale and Retail Trade', '1,546', '1,697', '', '3%', '3%'], ['Others', '8,962', '7,768', '', '15%', '15%'], ['Total', '$59,857', '$52,813', '', '100%', '100%']]
+--------------------------------------------------
+
+Page 16
+Table 2:
+[['Debt (including loan and loan-like instrumentsa)', '$ 58,534', '$ 49,713', '$ 8,821'], ['Equity (including equity and equity-like instrumentsa)', '14,646', '14,190', '456'], ['Guarantee and Credit Risk Management', '6,689', '5,596', '1,093'], ['Total Committed Investment Portfolio', '$ 79,869', '$ 69,499', '$10,370']]
+--------------------------------------------------
+
+Page 16
+Table 3:
+[['Loans', '$ 36,437', '$ 31,414', '$ 5,023'], ['Equity investments', '11,121', '10,778', '343'], ['Debt securities', '11,189', '9,310', '1,879'], ['Total Investments', '$58,747', '$ 51,502', '$ 7,245']]
+--------------------------------------------------
+
+Page 17
+Table 1:
+[['31,414 202 (1,414) (92) (356) (105)', '', '']]
+--------------------------------------------------
+
+Page 17
+Table 2:
+[['', '25.2']]
+--------------------------------------------------
+
+Page 17
+Table 3:
+[['', '22.9']]
+--------------------------------------------------
+
+Page 17
+Table 4:
+[['', '5.6']]
+--------------------------------------------------
+
+Page 17
+Table 5:
+[['', '4.1']]
+--------------------------------------------------
+
+Page 17
+Table 6:
+[['', '1.5']]
+--------------------------------------------------
+
+Page 17
+Table 7:
+[['', '1.4']]
+--------------------------------------------------
+
+Page 17
+Table 8:
+[['', '1.3']]
+--------------------------------------------------
+
+Page 17
+Table 9:
+[['', '1.1']]
+--------------------------------------------------
+
+Page 17
+Table 10:
+[['', '0.8']]
+--------------------------------------------------
+
+Page 17
+Table 11:
+[['', '0.5']]
+--------------------------------------------------
+
+Page 17
+Table 12:
+[['', '3.2']]
+--------------------------------------------------
+
+Page 17
+Table 13:
+[['', '2.9']]
+--------------------------------------------------
+
+Page 18
+Table 1:
+[['(1,115)\n(213)', '', ''], [None, '', None]]
+--------------------------------------------------
+
+Page 18
+Table 2:
+[['(1,174) (86)\n(175) (31)\n215\n9,310', '', '']]
+--------------------------------------------------
+
+Page 19
+Table 1:
+[['IFC Capitalization (Equity) Fund, LPa', '61%'], ['IFC Capitalization (Subordinated Debt) Fund, LP', '13%'], ['IFC African, Latin American and Caribbean Fund, LP', '20%'], ['IFC Catalyst Fundsb', '18%'], ['IFC Global Infrastructure Fund, LP', '17%'], ['IFC Financial Institutions Growth Fund, LP', '30%'], ['IFC Global Emerging Markets Fund of Fundsc', '19%'], ['IFC Middle East and North Africa Fund, LP', '37%'], ['Women Entrepreneurs Debt Fund, LP', '26%'], ['IFC Emerging Asia Fund, LP', '22%'], ['a. By virtue of certain rights granted to non-IFC limited partner interests, IFC does not control or consolidate this fund.\nb. The ownership interest of 18% reflects IFC’s ownership interest taking into consideration the overall commitments for the IFC Catalyst\nFunds, which comprises IFC Catalyst Fund, LP, IFC Catalyst Fund (UK), LP and IFC Catalyst Fund (Japan), LP (collectively, IFC Catalyst\nFunds). IFC does not have an ownership interest in either the IFC Catalyst Fund (UK), LP or the IFC Catalyst Fund (Japan), LP.\nc. The ownership interest of 19% reflects IFC’s ownership interest taking into consideration the current committed amounts for the IFC\nGlobal Emerging Markets Fund of Funds, which comprises IFC Global Emerging Markets Fund of Funds, LP and IFC Global Emerging\nMarkets Fund of Funds, (Japan Parallel) LP. IFC does not have an ownership interest in the IFC Global Emerging Markets Fund of Funds,\n(Japan Parallel) LP.', None]]
+--------------------------------------------------
+
+Page 20
+Table 1:
+[['IFC Capitalization (Equity) Fund,\nLP (Equity Capitalization Fund)', '$ 1,275', '$ 775', '$ 500', '$ 1,214', '', '$ –', '$ –', '$ –', '$ –'], ['IFC Capitalization (Subordinated\nDebt) Fund, LP (Sub-Debt\nCapitalization Fund)', '1,725', '225', '1,500', '1,614', '', '–', '–', '–', '–'], ['IFC African, Latin American and\nCaribbean Fund, LP (ALAC Fund)', '1,000', '200', '800', '863', '', '–', '–', '–', '–'], ['IFC Catalyst Fund, LP, IFC\nCatalyst Fund (UK), LP and\nIFC Catalyst Fund (Japan), LP\n(collectively, Catalyst Funds)', '418', '75', '343', '361', '', '–', '7', '–', '8'], ['IFC Global Infrastructure Fund, LP\n(Global Infrastructure Fund)c', '1,430', '200', '1,230', '902', '', '–', '–', '–', '–'], ['IFC Global Emerging Markets\nFund of Funds, LP and IFC Global\nEmerging Markets Fund of Funds\n(Japan Parallel), LP (collectively,\nGEM Funds)', '800', '150', '650', '757', '', '–', '48', '–', '86'], ['Women Entrepreneurs Debt Fund,\nLP (WED Fund)', '115', '30', '85', '110', '', '–', '–', '–', '–'], ['IFC Middle East and North Africa\nFund, LP (MENA Fund)', '162', '60', '102', '86', '', '–', '–', '4', '8'], ['IFC Financial Institutions Growth\nFund, LP (FIG Fund)', '505', '150', '355', '354', '', '10', '10', '–', '3'], ['IFC Emerging Asia Fund, LP (Asia\nFund)', '693', '150', '543', '590', '', '17', '17', '16', '97'], ['Current Funds Total', '$ 8,123', '$ 2,015', '$ 6,108', '$6,851', '', '$ 27', '$ 82', '$ 20', '$202'], ['Former Funds', None, None, None, None, None, None, None, None, None], ['Africa Capitalization Fund, Ltd.\n(Africa Capitalization Fund)', '$ 182', '$ –', '$ 182', '$ 130', '', '$ –', '$ –', '$ –', '$ –'], ['China-Mexico Fund, LP (China-\nMexico Fund)d', '1,200', '–', '1,200', '362', '', '–', '–', '–', '10'], ['IFC Russian Bank Capitalization\nFund, LP (Russian Bank Cap Fund)', '550', '250', '300', '82', '', '–', '–', '–', '–'], ['Former Funds Total', '$ 1,932', '$ 250', '$ 1,682', '$ 574', '', '$ –', '$ –', '$ –', '$ 10'], ['Grand Total', '$ 10,055', '$ 2,265', '$ 7,790', '$ 7,425', '', '$ 27', '$82', '$ 20', '$212']]
+--------------------------------------------------
+
+Page 21
+Table 1:
+[['Upstream & Advisory\nServices\nFinancial\nCompanies Intermediaries Governments\nand Funds', None], ['Companies', 'Governments']]
+--------------------------------------------------
+
+Page 23
+Table 1:
+[['Africa', '$ 97', '$ 99', '', '36%', '38%'], ['East Asia and Pacific', '39', '34', '', '14%', '13%'], ['Latin America and the Caribbean', '36', '27', '', '13%', '10%'], ['South Asia', '27', '23', '', '10%', '9%'], ['Europe', '22', '21', '', '8%', '8%'], ['World', '22', '31', '', '8%', '12%'], ['Middle East', '15', '13', '', '6%', '5%'], ['Central Asia and Türkiye', '12', '12', '', '4%', '5%'], ['Total Program Expenditures', '$270', '$260', '', '100%', '100%'], ['a. The program expenditure presented herein is based on the Operational reporting methodology, which includes all project expenditures\nassociated with an Advisory project. This does not include program expenditure associated with IFC’s Upstream project development activities.', None, None, None, None, None]]
+--------------------------------------------------
+
+Page 23
+Table 2:
+[['Financial Institutions', '$ 62', '$ 70', '', '23%', '27%'], ['Country Advisory & Economics', '55', '55', '', '20%', '21%'], ['Transaction Advisory', '54', '43', '', '20%', '16%'], ['Manufacturing Agribusiness & Services', '35', '37', '', '13%', '14%'], ['Infrastructure & Natural Resources', '21', '17', '', '8%', '7%'], ['Environmental, Social & Governance', '11', '14', '', '4%', '6%'], ['Disruptive Technologies & Funds', '5', '5', '', '2%', '2%'], ['Other Advisory', '27', '19', '', '10%', '7%'], ['Total Program Expenditures', '$270', '$260', '', '100%', '100%']]
+--------------------------------------------------
+
+Page 24
+Table 1:
+[['FOR THE YEAR ENDED JUNE 30\n(US$ in millions) 2024', None, '2023', 'VARIANCE'], ['The Funded Liquidity Portfolio', '$ 20,878', '$ 23,188', '$ (2,310)'], ['The Net Worth Funded Portfolio', '16,856', '16,932', '(76)'], ['Total Liquid Asset Portfolio', '$ 37,734', '$40,120', '$ (2,386)']]
+--------------------------------------------------
+
+Page 24
+Table 2:
+[['', '57.3']]
+--------------------------------------------------
+
+Page 24
+Table 3:
+[['', '53.8']]
+--------------------------------------------------
+
+Page 24
+Table 4:
+[['', '13.3']]
+--------------------------------------------------
+
+Page 24
+Table 5:
+[['', '11.8']]
+--------------------------------------------------
+
+Page 24
+Table 6:
+[['', '2.3']]
+--------------------------------------------------
+
+Page 24
+Table 7:
+[['', '3.0']]
+--------------------------------------------------
+
+Page 24
+Table 8:
+[['', '23.2']]
+--------------------------------------------------
+
+Page 24
+Table 9:
+[['', '22.6']]
+--------------------------------------------------
+
+Page 24
+Table 10:
+[['', '0.3']]
+--------------------------------------------------
+
+Page 25
+Table 1:
+[['AS OF THE YEAR ENDED JUNE 30\n(US$ in millions) 2024', None, '2023', 'VARIANCE'], ['Medium and long-term borrowings', '$ 53,447', '$49,476', '$ 3,971'], ['Short-term borrowings under the discount note program', '2,308', '2,967', '(659)'], ['Total outstanding borrowings', '$ 55,755', '$52,443', '$ 3,312']]
+--------------------------------------------------
+
+Page 25
+Table 2:
+[['52,443\n(9,635) (360) (659)', '', '']]
+--------------------------------------------------
+
+Page 26
+Table 1:
+[['Capital', '', ''], ['Authorized capital', '$ 25,080', '$ 25,080'], ['Subscribed capital', '24,104', '23,939'], ['Less: unpaid portion of subscriptions', '(884)', '(1,343)'], ['Paid-in capital', '23,220', '22,596'], ['Accumulated other comprehensive income', '957', '632'], ['Retained earnings', '13,295', '11,810'], ['Total Capital', '$ 37,472', '$ 35,038']]
+--------------------------------------------------
+
+Page 26
+Table 2:
+[['Undesignated Retained Earnings', '$ 13,133', '$ 11,589'], ['Designated Retained Earnings', '', ''], ['Creating Markets Advisory Window (CMAW)', '93', '161'], ['Funding Mechanism for Technical Assistance and Advisory Services', '58', '48'], ['Small and Medium Enterprise (SME) Ventures', '11', '12'], ['Total Designated Retained Earnings', '$ 162', '$ 221'], ['Total Retained Earnings', '$ 13,295', '$ 11,810']]
+--------------------------------------------------
+
+Page 31
+Table 1:
+[['IFC Managing Directora\nVP & General Counsel,\nVice President Vice President\nLegal, Institutional Risk,\nRisk & Finance Corporate Support\nand Governance', None], ['Vice President\nRisk & Finance', 'Vice President\nCorporate Support']]
+--------------------------------------------------
+
+Page 32
+Table 1:
+[['STRATEGIC AND\nBUSINESS RISK\nEEnnvvirioronnmmeenntta l Corporate\nStrategic\n& Social Governance\nRisk\nRRisiskks Risk\nIntegrity, External\nClimate\nML/TF & Tax Financing\nRisk\nRisk Risk', None], ['Integrity,\nML/TF & Tax\nRisk', 'External\nFinancing\nRisk']]
+--------------------------------------------------
+
+Page 32
+Table 2:
+[[None, 'OPERATIONAL\nRISK', None, None, None, None, None], ['Business\nContinuity', '', 'Data\nManagement', None, '', 'Technology Fraud', None], ['Business\nContinuity', None, None, 'Data\nManagement', None, None, 'Fraud'], [None, '', '', None, None, None, None], ['Physical\nSecurity and\nSafety', '', 'People', None, '', 'Process\nModel\nExecution', None], ['Physical\nSecurity and\nSafety', None, None, 'People', None, None, 'Model'], [None, '', '', None, None, None, None], ['Reporting', '', None, None, '', 'Vendors Other', None], ['Reporting', None, None, 'Legal,\nRegulatory and\nCompliance', None, None, 'Other']]
+--------------------------------------------------
+
+Page 33
+Table 1:
+[['NPLs as % of the debt portfolio', '1.8%', '2.7%', '(0.9)%'], ['Principal amount outstanding on NPLs', '$ 898', '$ 1,124', '$ (226)'], ['Total reserve against losses on loans', '$ 1,081', '$ 1,209', '$ (128)'], ['Total reserve against losses on loans as % of disbursed\nloan portfolio', '2.9%', '3.7%', '(0.8)%'], ['Total reserve against losses on loans as % of NPLs', '120.4%', '107.6%', '12.8%'], ['Total reserve against losses on outstanding guarantees', '$ 19', '$ 15', '$ 4']]
+--------------------------------------------------
+
+Page 34
+Table 1:
+[['', '5.48%', '$1,493\n$1,329\n4.43% $1,124\n3.85%\n$898\n2.66%\n1.84%']]
+--------------------------------------------------
+
+Page 38
+Table 1:
+[['FY20', '', '4%\n2%\n3%'], ['', '', None], [None, '8', None], [None, '1', None], ['', None, None], ['FY21', None, None], ['', '', '4%\n3%\n2%\n1%'], ['', '8', None], [None, '1', None], ['', '', None], ['FY22', None, None], ['', None, None]]
+--------------------------------------------------
+
+Page 38
+Table 2:
+[['', None, '8', '4%\n1%\n1%'], ['', None, '1', None], ['', None, '', None], ['FY23', None, '', None], ['', None, '3%\n86%', None], ['', None, None, None], ['', None, '1', '0%\n1%\n3%'], ['', None, '', None], ['FY24', None, '', None], ['', None, '', None], ['', None, '86%', None], ['', '10%', None, None]]
+--------------------------------------------------
+
+Page 43
+Table 1:
+[['Net income:', ''], ['Yield on interest earning assets\n(principally loans)', 'Market conditions including spread levels and degree of competition.\nNonaccruals and recoveries of interest on loans formerly in nonaccrual status,\nand income from participation notes on individual loans are also included in\nincome from loans.'], ['Liquid asset income', 'Realized and unrealized gains and losses on the liquid asset portfolio, in\nparticular the portion of the liquid asset portfolio funded by net worth, which\nare driven by external factors such as the interest rate environment and liquidity\nof certain asset classes within the liquid asset portfolio.'], ['Income from the equity investment\nportfolio', 'Global climate for emerging markets equities, fluctuations in currency\nmarkets and company-specific performance for equity investments. Overall\nperformance of the equity portfolio.'], ['Provision for losses on loans,\nguarantees, and available-for-sale\ndebt securities', 'Risk assessment of borrowers, probability of default, loss given default,\nand expected balance at default considering prepayment and disbursement\nassumption used to estimate expected utilization rates.'], ['Other income and expenses', 'Level of advisory services provided by IFC to its clients, the level of expense\nfrom the staff retirement and other benefits plans, the approved and actual\nadministrative expenses, and other budget resources.'], ['Gains and losses on other non-trading\nfinancial instruments accounted for\nat fair value', 'Principally, differences between changes in fair values of borrowings, excluding\nIFC’s credit spread and associated derivative instruments and unrealized gains\nor losses associated with the investment portfolio including puts, warrants, and\nstock options, which in part are dependent on the global climate for emerging\nmarkets. These securities may be valued using internally developed models or\nmethodologies, utilizing inputs that may be observable or non-observable.'], ['Other comprehensive income:', ''], ['Unrealized gains and losses on\ndebt securities accounted for as\navailable-for-sale', 'Global climate for emerging markets, fluctuations in currency and commodity\nmarkets and company-specific performance, and consideration of the extent\nto which unrealized losses are considered a credit loss. Debt securities may be\nvalued using internally developed models or methodologies, utilizing inputs that\nmay be observable or non-observable.'], ['Unrealized gains and losses\nattributable to instrument-specific\ncredit risk on borrowings at fair value\nunder the Fair Value Option', 'Fluctuations in IFC’s own credit spread measured against reference rate,\nresulting from changes over time in market pricing of credit risk. As credit\nspreads widen, unrealized gains are recorded, and when credit spreads narrow,\nunrealized losses are recorded.'], ['Unrecognized net actuarial gains and\nlosses and unrecognized prior service\ncosts on benefit plans', 'Returns on pension plan assets and the key assumptions that underlay\nprojected benefit obligations, including financial market interest rates, staff\nexpenses, past experience, and management’s best estimate of future benefit\ncost changes and economic conditions.']]
+--------------------------------------------------
+
+Page 44
+Table 1:
+[['FY22 (464)', '', '', None, None], ['FY23', None, '', '672', None], ['FY24', None, '672', None, '1,485']]
+--------------------------------------------------
+
+Page 44
+Table 2:
+[['(90) (4)\n48\n8 7\n298\n(97)', '', '']]
+--------------------------------------------------
+
+Page 45
+Table 1:
+[['', '', '61 898\n(275)\n(110)']]
+--------------------------------------------------
+
+Page 45
+Table 2:
+[['Portfolio (release of provision) provision on disbursed loans', '$ (26)', '$ 91', '$ (117)'], ['Individual provision (release of provision) on disbursed loans', '5', '(76)', '81'], ['Portfolio provision (release of provision) on undisbursed loans', '20', '(3)', '23'], ['Release of individual provision on undisbursed loans', '\xad(1)', '–', '\xad(1)'], ['Provision on off-balance sheet credit exposures and other receivables', '11', '10', '1'], ['Individual provision on available-for-sale debt securities', '12', '7', '5'], ['Total', '$ 21', '$ 29', '$ (8)']]
+--------------------------------------------------
+
+Page 45
+Table 3:
+[['', '', '(6)\n1,269\n(91)\n(17)']]
+--------------------------------------------------
+
+Page 46
+Table 1:
+[['Reserve against losses on disbursed loans', '', '', '', '', '', ''], ['Portfolio reserve', '$\x08 801', '2.3%', '$ \x08 843', '2.8%', '$\x08 (42)', '(0.5)%'], ['Individual reserve', '280', '25.3%', '366', '30.2%', '(86)', '(4.9)%'], ['', '$\x08 1,081', '3.0%', '$\x08 1,209', '3.9%', '(128)', '(0.9)%'], ['Reserve against losses on loans committed\nbut not disbursed', '', '', '', '', '', ''], ['Portfolio reserve', '188', '2.2%', '169', '2.5%', '19', '(0.3)%'], ['Individual reserve', '–', '–', '1', '2.2%', '(1)', '(2.2)%'], ['', '188', '2.2%', '170', '2.5%', '18', '(0.3)%'], ['Total reserve', '$\x08 1,269', '2.8%', '$\x08 1,379', '3.6%', '$\x08 (110)', '(0.8)%']]
+--------------------------------------------------
+
+Page 46
+Table 2:
+[['Net realized gains', '$ 245', '$ 161', '$ 84'], ['Net unrealized losses', '(231)', '(134)', '(97)'], ['Dividend income, custody, fees and other', '128', '164', '(36)'], ['Total income from equity investments and associated derivatives', '$ 142', '$ 191', '$ (49)']]
+--------------------------------------------------
+
+Page 47
+Table 1:
+[['Liquid asset income, gross of funding costs:', '', '', ''], ['Market Funded Liquidity Portfolio', '$ 1,341', '$ 1,215', '$ 126'], ['Net Worth Funded Liquidity Portfolio', '1,050', '249', '801'], ['Total liquid asset income, gross of funding costs', '$ 2,391', '$ 1,464', '$ 927'], ['Liquid asset income, net of funding costs:', '', '', ''], ['Market Funded Liquidity Portfolio', '$ 106', '$ 208', '$ (102)'], ['Net Worth Funded Liquidity Portfolio', '754', '33', '721'], ['Total liquid asset income, net of funding costs', '$ 860', '$ 241', '$ 619']]
+--------------------------------------------------
+
+Page 47
+Table 2:
+[['Upstream and Advisory Services Income', '$ 268', '$ 247', '$ 21'], ['Service Fees', '131', '128', '3'], ['Investment returns on Post-Employment Benefit Plan assets', '63', '55', '8'], ['PCRF Income', '30', '15', '15'], ['CRM Income/ Expense', '25', '18', '7'], ['Other Miscellaneous Income', '70', '55', '15'], ['Total', '$ 587', '$ 518', '$ 69']]
+--------------------------------------------------
+
+Page 48
+Table 1:
+[['Administrative expenses', '$ 1,516', '$ 1,430', '$ 86'], ['Upstream and Advisory services expenses', '339', '317', '22'], ['Income from pension and other postretirement benefit plans', '(37)', '(41)', '4'], ['Other Expenses', '9', '15', '(6)'], ['Total', '$ 1,827', '$ 1,721', '$ 106']]
+--------------------------------------------------
+
+Page 48
+Table 2:
+[['Reported in Net Income', '$ (115)', '$ (86)', '$ (29)'], ['Reported in Other Comprehensive Income, net of reclassifications to\nnet income upon sale or repayment', '100', '111', '(11)'], ['Total', '$ (15)', '$ 25', '$ (40)']]
+--------------------------------------------------
+
+Page 49
+Table 1:
+[['Unrealized gains (losses) on the loan and debt securities\nportfolio carried at fair value', '$ 280', '$ (46)'], ['Unrealized (losses) gains on associated derivatives', '(98)', '221'], ['Unrealized gains on loans, debt securities and associated derivatives', '182', '175'], ['Unrealized (losses) gains on borrowings from market and IDA', '(627)', '270'], ['Unrealized gains (losses) on associated derivatives', '573', '(320)'], ['Unrealized losses on borrowings from market, IDA and associated derivatives', '(54)', '(50)'], ['Net unrealized gains on non-trading financial instruments accounted for at fair value', '$ 128', '$ 125']]
+--------------------------------------------------
+
+Page 50
+Table 1:
+[['Net unrealized gains and losses on debt securities arising during the period:', '', ''], ['Unrealized gains', '$ 151', '$ 275'], ['Unrealized losses', '(41)', '(155)'], ['Reclassification adjustment for realized gains and credit-related portion of\nimpairments that were recognized in net income', '11', '(58)'], ['Net unrealized gains on debt securities', '$ 121', '$ 62'], ['Net unrealized gains and losses attributable to instrument-specific credit\nrisk on borrowings at fair value under the Fair Value Option:', '', ''], ['Unrealized gains', '$ 439', '$ 474'], ['Unrealized losses', '(377)', '(536)'], ['Reclassification adjustment for realized gains included in net income upon\nderecognition of borrowings', '12', '12'], ['Net unrealized gains (losses) on borrowings', '$ 74', '$ (50)'], ['Total unrealized gains on debt securities and borrowings', '$ 195', '$ 12']]
+--------------------------------------------------
+
+Page 51
+Table 1:
+[['President', 'Ajay Banga'], ['Managing Director', 'Makhtar Diop'], ['Regional Vice President, Africa', 'Sérgio Pimenta'], ['Regional Vice President, Europe, Latin America and the Caribbean', 'Alfonso García Mora'], ['Regional Vice President, Middle East, Central Asia, Türkiye, Afghanistan and Pakistan', 'Hela Cheikhrouhou'], ['Regional Vice President, Asia and the Pacific', 'Riccardo Puliti'], ['Vice President, Cross-Cutting Solutions', 'Emmanuel Nyirinkindi'], ['Vice President, Corporate Support', 'Elena Bourganskaia'], ['Vice President, Economics and Private Sector Development', 'Susan M. Lund'], ['Vice President and General Counsel, Legal, Institutional Risk, and Governance', 'Ramit Nagpal'], ['Vice President, Industries', 'Mohamed Gouled'], ['Vice President, Risk and Finance', 'Federico Galizia'], ['Vice President, Treasury & Mobilization', 'John Gandolfo']]
+--------------------------------------------------
+
+Page 51
+Table 2:
+[['BOAR\nDIREC', 'D OF\nTORS']]
+--------------------------------------------------
+
+Page 55
+Table 1:
+[['ABS', 'Asset-Backed Securities'], ['AIMM', 'Anticipated Impact Measurement\nand Monitoring'], ['ALM', 'Asset Liability Management'], ['AML/CFT', 'Anti-Money Laundering/\nCombating the Financing\nof Terrorism'], ['AOCI', 'Accumulated Other\nComprehensive Income'], ['BFC', 'Blended Finance and Donor Funds\nCommittee'], ['BOP', 'Base of the Pyramid'], ['CAO', 'Compliance Advisory/Ombudsman'], ['CBR', 'Business Risk and Compliance\nDepartment'], ['CECL', 'Current Expected Credit Loss'], ['CEG', 'Sustainability and Gender Solutions\nDepartment'], ['CES', 'Environmental and Social Policy\nand Risk Department'], ['CMAW', 'Creating Markets Advisory Window'], ['COSO', 'Committee of Sponsoring\nOrganizations of the Treadway\nCommission'], ['CR', 'Credit Rating'], ['CRC', 'Corporate Risk Committee'], ['CRM', 'Client Risk Management'], ['CRWG', 'Climate Risk Working Group'], ['CSO', 'Department of Special Operations'], ['CUR', 'Capital Utilization Ratio'], ['DARP', 'Distressed Asset Recovery Program'], ['DFIs', 'Development Financial Institutions'], ['E&S', 'Environmental and Social'], ['EIJ', 'Ethics and Internal Justice'], ['ERM', 'Enterprise Risk Management\nFramework'], ['ESG', 'Environmental, Social\n& Governance'], ['ESRR', 'E&S Risk Rating'], ['FCA', 'Financial Conduct Authority'], ['FCS', 'Fragile and Conflict-Affected\nSituations'], ['FMTAAS', 'Funding Mechanism for Technical\nAssistance and Advisory Services']]
+--------------------------------------------------
+
+Page 55
+Table 2:
+[['GCI', 'General Capital Increase'], ['GEI', 'Gender and Economic Inclusion'], ['GEMs', 'Global Emerging Markets (GEMs)'], ['GP', 'General Partner'], ['GTFP', 'Global Trade Finance Program'], ['GTLP', 'Global Trade Liquidity Program'], ['GTSF', 'Global Trade Supplier Program'], ['GTST', 'General Structured Trade\nFinance Program'], ['IBRD', 'International Bank for\nReconstruction and Development'], ['ICSID', 'International Centre for\nSettlement of Investment Disputes'], ['IDA', 'International Development\nAssociation'], ['IDA-PSW', 'IDA Private Sector Window'], ['IEG', 'Independent Evaluation Group'], ['IFC or the\nCorporation', 'International Finance Corporation'], ['IFIs', 'International Financial Institutions'], ['INT', 'Integrity Vice Presidency'], ['ITSG', 'Information and Technology\nSteering Group'], ['LCR', 'Liquidity Coverage Ratios'], ['LIBOR', 'London Interbank Offered Rate'], ['LTF', 'Long-Term Finance'], ['MBS', 'Mortgage-Backed Securities'], ['MCPP', 'Managed Co-Lending\nPortfolio Program'], ['MDBs', 'Multilateral Development Banks'], ['MD', 'Managing Director'], ['MD&A', 'Management’s Discussion and\nAnalysis'], ['MIGA', 'Multilateral Investment Guarantee\nAgency'], ['ML/TF', 'Money Laundering And\nTerrorist Financing'], ['MT', 'IFC’s Management Team'], ['NAV', 'Net Asset Value'], ['NPLs', 'Non-performing Loans'], ['OCI', 'Other Comprehensive Income'], ['ORM', 'IFC’s Operational Risk\nManagement']]
+--------------------------------------------------
+
+Page 56
+Table 1:
+[['PBAC', 'Pension Benefits Administration\nCommittee'], ['PCRF', 'Post-retirement Contributions\nReserve Fund'], ['PEBP', 'Post-Employment Benefit Plan'], ['PFC', 'Pension Finance Committee'], ['PPP', 'Public-Private Partnership'], ['PRI', 'Political Risk Insurance'], ['PSW', 'Private Sector Window'], ['RA', 'Risk Appetite'], ['RCSA', 'Risk and Control Self-Assessments'], ['RIs', 'Risk Indicators'], ['RSBP', 'Retired Staff Benefits Plan'], ['SCI', 'Selective Capital Increase'], ['SLAs', 'Service Level Agreements'], ['SMEs', 'Small and Medium Enterprises'], ['SOFR', 'Secured Overnight Financing Rate'], ['SRP', 'Staff Retirement Plan'], ['STF', 'Short-Term Finance'], ['T3PC', 'Tier III Project Committee'], ['VPU', 'Vice Presidency Unit']]
+--------------------------------------------------
+
+Page 70
+Table 1:
+[['Libya ..................................................... 419 0.00 7,755 0.03', '', 'Saudi Arabia.................................', '583,805 2.51 591,141 2.40'], ['Lithuania............................................... 22,912 0.10 30,248 0.12', '', 'Senegal.........................................', '17,986 0.08 25,322 0.10'], ['Luxembourg......................................... 23,835 0.10 31,171 0.13', '', 'Serbia............................................', '19,760 0.09 27,096 0.11'], ['Madagascar......................................... 6,834 0.03 14,170 0.06', '', 'Seychelles....................................', '206 0.00 7,542 0.03'], ['Malawi .................................................. 13,892 0.06 21,228 0.09', '', 'Sierra Leone ................................', '2,730 0.01 10,066 0.04'], ['Malaysia............................................... 126,614 0.55 133,950 0.54', '', 'Singapore.....................................', '8,789 0.04 16,125 0.07'], ['Maldives............................................... 709 0.00 8,045 0.03', '', 'Slovak Republic...........................', '46,629 0.20 53,965 0.22'], ['Mali........................................................ 5,274 0.02 12,610 0.05', '', 'Slovenia........................................', '16,896 0.07 24,232 0.10'], ['Malta..................................................... 15,807 0.07 23,143 0.09', '', 'Solomon Islands..........................', '282 0.00 7,618 0.03'], ['Marshall Islands.................................. 5,055 0.02 12,391 0.05', '', 'Somalia.........................................', '633 0.00 7,969 0.03'], ['Mauritania ............................................ 1,632 0.01 8,968 0.04', '', 'South Africa..................................', '132,805 0.57 140,141 0.57'], ['Mauritius............................................... 17,482 0.08 24,818 0.10', '', 'South Sudan................................', '14,334 0.06 21,670 0.09'], ['Mexico .................................................. 232,794 1.00 240,130 0.98', '', 'Spain.............................................', '401,622 1.73 408,958 1.66'], ['Micronesia, Federated States of ...... 5,673 0.02 13,009 0.05', '', 'Sri Lanka ......................................', '65,217 0.28 72,553 0.30'], ['Moldova................................................ 10,068 0.04 17,404 0.07', '', 'St. Kitts and Nevis.......................', '4,864 0.02 12,200 0.05'], ['Mongolia............................................... 1,769 0.01 9,105 0.04', '', 'St. Lucia........................................', '564 0.00 7,900 0.03'], ['Montenegro.......................................... 9,010 0.04 16,346 0.07', '', 'Sudan............................................', '846 0.00 8,182 0.03'], ['Morocco................................................ 90,135 0.39 97,471 0.40', '', 'Suriname......................................', '4,727 0.02 12,063 0.05'], ['Mozambique........................................ 2,455 0.01 9,791 0.04', '', 'Sweden.........................................', '244,918 1.05 252,254 1.03'], ['Myanmar .............................................. 5,078 0.02 12,414 0.05', '', 'Switzerland...................................', '431,268 1.86 438,604 1.78'], ['Namibia ................................................ 3,080 0.01 10,416 0.04', '', 'Syrian Arab Republic..................', '1,479 0.01 8,815 0.04'], ['Nepal .................................................... 6,267 0.03 13,603 0.06', '', 'Tajikistan.......................................', '10,429 0.04 17,765 0.07'], ['Netherlands ......................................... 518,561 2.23 525,897 2.14', '', 'Tanzania.......................................', '8,923 0.04 16,259 0.07'], ['New Zealand ....................................... 47,437 0.20 54,773 0.22', '', 'Thailand........................................', '129,382 0.56 136,718 0.56'], ['Nicaragua............................................. 7,508 0.03 14,844 0.06', '', 'Timor-Leste..................................', '6,667 0.03 14,003 0.06'], ['Niger ..................................................... 1,121 0.00 8,457 0.03', '', 'Togo...............................................', '6,161 0.03 13,497 0.05'], ['Nigeria .................................................. 270,840 1.17 278,176 1.13', '', 'Tonga ............................................', '1,226 0.01 8,562 0.03'], ['North Macedonia ................................ 5,932 0.03 13,268 0.05', '', 'Trinidad and Tobago...................', '31,352 0.14 38,688 0.16'], ['Norway ................................................. 165,868 0.71 173,204 0.70', '', 'Tunisia ..........................................', '33,486 0.14 40,822 0.17'], ['Oman.................................................... 11,002 0.05 18,338 0.07', '', 'Türkiye..........................................', '167,498 0.72 174,834 0.71'], ['Pakistan................................................ 183,167 0.79 190,503 0.77', '', 'Turkmenistan...............................', '6,176 0.03 13,512 0.05'], ['Palau..................................................... 191 0.00 7,527 0.03', '', 'Tuvalu ...........................................', '520 0.00 7,856 0.03'], ['Panama................................................ 9,856 0.04 17,192 0.07', '', 'Uganda.........................................', '5,604 0.02 12,940 0.05'], ['Papua New Guinea ............................ 8,745 0.04 16,081 0.07', '', 'Ukraine .........................................', '77,458 0.33 84,794 0.34'], ['Paraguay.............................................. 3,324 0.01 10,660 0.04', '', 'United Arab Emirates .................', '30,750 0.13 38,086 0.15'], ['Peru ...................................................... 83,589 0.36 90,925 0.37', '', 'United Kingdom...........................', '1,132,088 4.88 1,139,424 4.63'], ['Philippines............................................ 121,863 0.52 129,199 0.53', '', 'United States...............................', '4,341,278 18.70 4,348,614 17.69'], ['Poland .................................................. 74,893 0.32 82,229 0.33', '', 'Uruguay........................................', '28,970 0.12 36,306 0.15'], ['Portugal................................................ 63,467 0.27 70,803 0.29', '', 'Uzbekistan ...................................', '39,115 0.17 46,451 0.19'], ['Qatar..................................................... 12,581 0.05 19,917 0.08', '', 'Vanuatu.........................................', '419 0.00 7,755 0.03'], ['Romania............................................... 48,335 0.21 55,671 0.23', '', 'Venezuela, Republica\nBolivariana de ...........................', '210,347 0.91 217,683 0.89'], ['Russian Federation ............................ 784,211 3.38 791,547 3.22', '', 'Viet Nam.......................................', '3,401 0.01 10,737 0.04'], ['Rwanda ................................................ 2,333 0.01 9,669 0.04', '', 'Yemen, Republic of.....................', '5,452 0.02 12,788 0.05'], ['Samoa .................................................. 1,180 0.01 8,516 0.03', '', 'Zambia..........................................', '15,953 0.07 23,289 0.09'], ['Sao Tome and Principe...................... 3,347 0.01 10,683 0.04', 'Zimbabwe..................................... 24,513 0.11 31,849 0.13', None, None], ['* May differ from the sum of individual percentages shown because of rounding', 'Total June 30, 2024 23,220,348 100.00* 24,584,844 100.00*', None, None], ['', 'Total June 30, 2023 22,595,632 100.00* 23,923,300 100.00*', None, None]]
+--------------------------------------------------
+
+Page 81
+Table 1:
+[['Services and Support (Payables) Receivables $ (1)', '$ —', '$ 5 $ 4 $ (35) $ — $ 4 $ (31)'], ['IDA PSW – Local Currency Facility —', '94', '— 94 — 50 a — 50'], ['IDA PSW – Blended Finance Facility —', '(106)', '— (106) — (93) — (93)'], ['Borrowings —', '(170)', '— (170) — (243) — (243)'], ['Pension and Other Post-retirement Benefits 774', '—', '— 774 704 — — 704'], ['Post-retirement Contribution Reserve Fund 344', '—', '— 344 385 — — 385'], ['$ 1,117', '$ (182)', '$ 5 $ 940 $ 1,054 $ (286) $ 4 $ 772']]
+--------------------------------------------------
+
+Page 88
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 88\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nReserve against losses on loans and provision for losses on loans\nThe reserve against losses as of June 30, 2024 reflected credit risk assessments as of that date. The assessment of the level of\nreserve against losses carried a heightened degree of uncertainty and judgment. As of June 30, 2024, a $25 million qualitative overlay\nfor reserve against losses on loans and guarantees was applied ($135 million as of June 30, 2023), a reduction of $110 million in the\nyear ended June 30, 2024 since the circumstances requiring the overlay are now broadly reflected in the credit ratings and reserve.\nChanges in the reserve against losses on loans disbursed and loans committed but not disbursed for the years ended June 30, 2024,\nJune 30, 2023 and June 30, 2022 as well as the related loans at amortized cost evaluated for impairment individually (individual\nreserve) and on a pool basis (portfolio reserve) are summarized below:\nFor the year ended June 30, 2024\nLoans Committed but not\nLoans Disbursed Disbursed\nIndividual Portfolio Total Individual Portfolio Total\n(US$ in millions) reserve reserve reserve reserve reserve reserve\nBeginning balance $ 366 $ 843 $ 1,209 $ 1 $ 169 $ 170\nProvision (release of provision) for losses 5 (26) (21) (1) 20 19\nWrite-offs (95) — (95) — — —\nRecoveries of previously written-off loans 4 — 4 — — —\nForeign currency transaction adjustments (1) (10) (11) — (1) (1)\nOther adjustments a 1 (6) (5) — — —\nEnding balance $ 280 $ 801 $ 1,081 $ — $ 188 $ 188\nTotal disbursed loans at June 30, 2024 $ 1,106 $ 34,769 $ 35,875\nLoans committed but not disbursed at June 30, 2024 $ 49 $ 8,678 $ 8,727\nUnamortized deferred loan origination fees, net and other (146)\nLoans at amortized cost $ 35,729\n___________\na Other adjustments comprise reserve against capitalized interest.\nFor the year ended June 30, 2023\nLoans Committed but not\nLoans Disbursed Disbursed\nIndividual Portfolio Total Individual Portfolio Total\n(US$ in millions) reserve reserve reserve reserve reserve reserve\nBeginning balance $ 461 $ 748 $ 1,209 $ 1 $ 171 $ 172\n(Release of provision) provision for losses (76) 91 15 — (3) (3)\nWrite-offs (37) — (37) — — —\nRecoveries of previously written-off loans 18 — 18 — — —\nForeign currency transaction adjustments (1) 6 5 — 1 1\nOther adjustments a 1 (2) (1) — — —\nEnding balance $ 366 $ 843 $ 1,209 $ 1 $ 169 $ 170\nTotal disbursed loans at Jun 30, 2023 $ 1,212 $ 30,032 $ 31,244\nLoans committed but not disbursed at June 30, 2023 $ 46 $ 6,796 $ 6,842\nUnamortized deferred loan origination fees, net and other $ (127)\nLoans at amortized cost $ 31,117\n___________\na Other adjustments comprise reserve against interest capitalized.\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 88']]
+--------------------------------------------------
+
+Page 90
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 90\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nNonaccruing loans\nLoans on which the accrual of interest has been discontinued amounted to $845 million as of June 30, 2024 ($1.1 billion as of June 30,\n2023). The interest income on such loans for the years ended June 30, 2024, June 30, 2023 and June 30, 2022 is summarized as\nfollows:\nFor the year ended June 30,\n(US$ in millions) 2024 2023 2022\nInterest income not recognized on nonaccruing loans $ 103 $ 139 $ 92\nInterest income recognized on loans in nonaccrual status related to current and\nprior years, on cash basis 44 78 65\nThere were no loans in nonaccrual status without an individual reserve against losses as of June 30, 2024 and June 30, 2023.\nThe amortized cost of nonaccruing loans as of June 30, 2024 and June 30, 2023 is summarized by geographic region and industry\nsector as follows:\nJune 30, 2024\nTotal non-\nManufacturing, Infrastructure Disruptive accruing loans\nagribusiness Financial and natural technologies at amortized\n(US$ in millions) and services markets resources and funds cost a\nAfrica $ 128 $ — $ 159 $ 9 $ 296\nAsia and Pacific 50 5 6 1 62\nLatin America and the Caribbean, and Europe 186 15 114 6 321\nMiddle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan 87 39 93 — 219\nTotal disbursed loans b $ 451 $ 59 $ 372 $ 16 $ 898\nJune 30, 2023\nTotal non-\nManufacturing, Infrastructure Disruptive accruing loans\nagribusiness Financial and natural technologies at amortized\n(US$ in millions) and services markets resources and funds cost a\nAfrica $ 196 $ — $ 161 $ 5 $ 362\nAsia and Pacific 118 7 19 — 144\nLatin America and the Caribbean, and Europe 159 12 151 1 323\nMiddle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan 91 74 130 — 295\nTotal disbursed loans b $ 564 $ 93 $ 461 $ 6 $ 1,124\n_________\na Includes all components of amortized cost except unamortized fees. The related unamortized fees are considered insignificant.\nb Includes $53 million reported as debt securities and $126 million reported as loans under Fair Value Option on the Balance Sheets as of June 30, 2024 ($59 million Debt\nsecurities and $137 million Fair Value Option loans as of June 30, 2023).\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 90']]
+--------------------------------------------------
+
+Page 91
+Table 1:
+[['Africa', None], ['Manufacturing, agribusiness and services $ 1,870 $ 278 $ — $ — $ 49 $ 2,197', None], ['Financial markets 3,214 365 — — — 3,579', None], ['Infrastructure and natural resources 1,821 82 — — 91 1,994', None], ['Disruptive technologies and funds — — — — 4 4', None], ['Total Africa 6,905 725 — — 144 7,774', None], ['Asia and Pacific', None], ['Manufacturing, agribusiness and services 2,801 121 — — 20 2,942', None], ['Financial markets 5,395 1 — — 4 5,400', None], ['Infrastructure and natural resources 1,525 18 48 — — 1,591', None], ['Total Asia and Pacific 9,721 140 48 — 24 9,933', None], ['Latin America and the Caribbean, and Europe', None], ['Manufacturing, agribusiness and services 4,823 12 — 25 79 4,939', None], ['Financial markets 4,567 64 — — 8 4,639', None], ['Infrastructure and natural resources 2,252 14 15 — 21 2,302', None], ['Disruptive technologies and funds 17 — — — — 17', None], ['Total Latin America and the Caribbean, and Europe 11,659 90 15 25 108 11,897', None], ['Middle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan', None], ['Manufacturing, agribusiness and services 1,768 87 — — 11 1,866', None], ['Financial markets 1,010 236 — — 20 1,266', None], ['Infrastructure and natural resources 1,074 161 — — 30 1,265', None], ['Total Middle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan 3,852 484 — — 61 4,397', None], ['Other', None], ['Manufacturing, agribusiness and services 488 2 — — — 490', None], ['Financial markets 1,201 — — — — 1,201', None], ['Infrastructure and natural resources 183 — — — — 183', None], ['Total Other 1,872 2 — — — 1,874', None], ['Total disbursed loans $ 34,009 $ 1,441 $ 63 $ 25 $ 337 $ 35,875', None], ['Unamortized deferred loan origination fees, net and other', '(146)'], ['Loans at amortized cost $ 35,729', None]]
+--------------------------------------------------
+
+Page 92
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 92\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nJune 30, 2023\nGreater\nthan 90\n1-30 Days 31-60 days 61-90 days days past\n(US$ in millions) Current past due past due past due due Total loans\nAfrica\nManufacturing, agribusiness and services $ 1,905 $ 13 $ — $ 10 $ 90 $ 2,018\nFinancial markets 2,731 5 — 1 — 2,737\nInfrastructure and natural resources 1,706 4 — — 109 1,819\nDisruptive technologies and funds — — — — 4 4\nTotal Africa 6,342 22 — 11 203 6,578\nAsia and Pacific\nManufacturing, agribusiness and services 3,022 66 — — 18 3,106\nFinancial markets 4,553 — — — 5 4,558\nInfrastructure and natural resources 1,706 — — — 6 1,712\nTotal Asia and Pacific 9,281 66 — — 29 9,376\nLatin America and the Caribbean, and Europe\nManufacturing, agribusiness and services 3,736 — 25 — 94 3,855\nFinancial markets 3,987 — — — 6 3,993\nInfrastructure and natural resources 1,749 — — — 26 1,775\nTotal Latin America and the Caribbean, and\nEurope 9,472 — 25 — 126 9,623\nMiddle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan\nManufacturing, agribusiness and services 1,222 64 — — 12 1,298\nFinancial markets 1,019 — — 23 33 1,075\nInfrastructure and natural resources 1,274 31 — — — 1,305\nTotal Middle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan 3,515 95 — 23 45 3,678\nOther\nManufacturing, agribusiness and services 450 5 — — — 455\nFinancial markets 1,534 — — — — 1,534\nTotal Other 1,984 5 — — — 1,989\nTotal disbursed loans $ 30,594 $ 188 $ 25 $ 34 $ 403 $ 31,244\nUnamortized deferred loan origination fees, net and other (127)\nLoans at amortized cost $ 31,117\nCertain loans that are 90 days or more past due continue to accrue interest as management anticipates the collection of interest will\noccur in the near future. Amortized cost of these loans amounted to $2 million as of June 30, 2024 ($9 million as of June 30, 2023).\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 92']]
+--------------------------------------------------
+
+Page 92
+Table 2:
+[['(US$ in millions)', None], ['Africa', None], ['Manufacturing, agribusiness and services $ 1,905 $ 13 $ — $ 10 $ 90 $ 2,018', None], ['Financial markets 2,731 5 — 1 — 2,737', None], ['Infrastructure and natural resources 1,706 4 — — 109 1,819', None], ['Disruptive technologies and funds — — — — 4 4', None], ['Total Africa 6,342 22 — 11 203 6,578', None], ['Asia and Pacific', None], ['Manufacturing, agribusiness and services 3,022 66 — — 18 3,106', None], ['Financial markets 4,553 — — — 5 4,558', None], ['Infrastructure and natural resources 1,706 — — — 6 1,712', None], ['Total Asia and Pacific 9,281 66 — — 29 9,376', None], ['Latin America and the Caribbean, and Europe', None], ['Manufacturing, agribusiness and services 3,736 — 25 — 94 3,855', None], ['Financial markets 3,987 — — — 6 3,993', None], ['Infrastructure and natural resources 1,749 — — — 26 1,775', None], ['Total Latin America and the Caribbean, and\nEurope 9,472 — 25 — 126 9,623', None], ['Middle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan', None], ['Manufacturing, agribusiness and services 1,222 64 — — 12 1,298', None], ['Financial markets 1,019 — — 23 33 1,075', None], ['Infrastructure and natural resources 1,274 31 — — — 1,305', None], ['Total Middle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan 3,515 95 — 23 45 3,678', None], ['Other', None], ['Manufacturing, agribusiness and services 450 5 — — — 455', None], ['Financial markets 1,534 — — — — 1,534', None], ['Total Other 1,984 5 — — — 1,989', None], ['Total disbursed loans $ 30,594 $ 188 $ 25 $ 34 $ 403 $ 31,244', None], ['Unamortized deferred loan origination fees, net and other', '(127)'], ['Loans at amortized cost $ 31,117', None]]
+--------------------------------------------------
+
+Page 93
+Table 1:
+[['Credit Risk\nRating', 'Indicative\nExternal\nRating', 'Category', 'Description'], ['CR-1', 'AAA, AA+,\nAA, AA-', 'Very Strong', "An obligor rated CR-1 is the highest rating assigned by IFC. The obligor's ability to meet\nits financial obligations is very strong."], ['CR-2', 'A+, A, A-', 'Strong', "An obligor rated CR-2 is slightly more susceptible to the negative effects of changes in\ncircumstances and economic conditions than obligors rated CR-1. The obligor's ability\nto meet its financial obligations remains strong."], ['CR-3', 'BBB+', '', 'An obligor rated CR-3 exhibits an adequate financial profile, even though at a weaker\nlevel than "CR-1" and "CR-2".'], ['CR-4', 'BBB', 'Adequate', 'An obligor rated CR-4 exhibits an adequate financial profile. However, adverse\neconomic conditions or changing circumstances are more likely to lead to a\ndeterioration of the obligor’s ability to meet its financial obligations.'], ['CR-5', 'BBB-', '', 'An obligor rated CR-5, as the lowest of the investment grade ratings, exhibits an\nadequate financial profile. However, adverse economic conditions and/or changing\ncircumstances are more likely to lead to a weaker financial profile and a deterioration of\nthe obligor’s ability to meet its financial obligations.'], ['CR-6', 'BB+', '', 'An obligor rated CR-6, as the first non-investment grade rating, is less vulnerable to\ndefault than other non-investment obligors.'], ['CR-7', 'BB', 'Moderate', "An obligor rated CR-7 can face major uncertainties. Exposure to negative business,\nfinancial, or economic conditions could lead to the obligor's insufficient financial profile\nand a deterioration of the obligor’s ability to meet its financial obligations."], ['CR-8', 'BB-', None, "An obligor rated CR-8 faces major ongoing uncertainties. Exposure to negative\nbusiness, financial, or economic conditions could lead to the obligor's insufficient\nfinancial profile and a deterioration of the obligor’s ability to meet its financial\nobligations."], ['CR-9', 'B+', '', "An obligor rated CR-9 is less vulnerable to default than obligors rated 'CR-10’ or\n‘CR-11'. Significantly negative business, financial, or economic conditions will likely\nweaken the obligor's financial profile and ability to meet its financial obligations."], ['CR-10', 'B', 'Weak', "An obligor rated CR-10 is more vulnerable to default than obligors rated 'CR-9’ but the\nobligor still has the capacity to meet its financial obligations. Negative business,\nfinancial, or economic conditions will likely weaken the obligor's financial profile and\nability to meet its financial obligations."], ['CR-11', 'B-', '', "An obligor rated CR-11 is more vulnerable to default than obligors rated 'CR-9’ or\n‘CR-10’. The obligor still has the capacity to meet its obligations but slightly negative\nbusiness, financial, or economic conditions are more likely to weaken the obligor's\nfinancial profile and ability to meet its financial obligations than a company rated CR-10."], ['CR-12', 'CCC+', 'Very Weak/\nSpecial\nAttention', 'An obligor rated CR-12 faces significant challenges. While such obligors will likely have\nsome positive characteristics, these may be outweighed by large uncertainties or major\nexposures to adverse conditions. The obligor is dependent upon favorable business,\nfinancial, and economic conditions to meet its financial obligations.'], ['CR-13', 'CCC', 'Very Weak/\nSubstandard', 'An obligor rated CR-13 is currently vulnerable to default, and is dependent upon\nsignificantly favorable business, financial, and economic conditions to meet its financial\nobligations. In the event of negative business, financial, or economic conditions, the\nobligor is not likely to meet its financial obligations and rescheduling and/or\nrestructuring is likely to be required.'], ['CR-14', 'CCC-', 'Extremely\nWeak/Doubtful', 'An obligor rated CR-14 is highly vulnerable to default. It is highly likely that a\nrescheduling and/or restructuring are required without which a default under IFC’s\naccounting definition would ensue. In some cases, even though default has not\noccurred yet, cash flow may be insufficient to service debt in full.'], ['CR-15', 'Worse than\nCCC- and D', 'Imminent\nDefault', 'An obligor rated CR-15 is currently extremely vulnerable to nonpayment and there are\nindications that the next payment will not be made before meeting IFC’s accounting\ndefinition of default.'], ['D', '', '/Default', 'An obligor rated D is in payment default according to IFC’s definition of default.']]
+--------------------------------------------------
+
+Page 94
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 94\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nThe following table presents the loans disbursed by credit quality indicator based on risk rating and origination year as of June 30, 2024\nand June 30, 2023 and gross write-offs for the year ended June 30, 2024. The origination year is based on the commitment date that\nrepresents the date that the decision was made to extend credit and IFC entered into a legally binding agreement with the borrower. All\nsubsequent loan disbursements, as well as loan modifications, extensions, and renewals for an associated loan commitment are\nreported based on the original commitment date:\nJune 30, 2024\n(US$ in millions) Loans at Amortized cost basis by Risk class\nVery\nWeak/ Very\nSpecial Weak/ Extremely Imminent Gross\nOriginated during the year Very Attenti Sub- Weak/ Default/ Total write-\nended June 30, Strong Strong Adequate Moderate Weak on standard Doubtful Default Contracts offs\n2024 $ — $ 119 $ 3,519 $ 2,785 $ 1,409 $ 147 $ 20 $ 22 $ 9 $ 8,030 $ —\n2023 — 460 2,161 3,306 2,127 110 6 123 — 8,293 —\n2022 — 356 1,423 2,049 1,270 225 — 31 98 5,452 36\n2021 — — 1,286 1,878 944 8 13 — 8 4,137 —\n2020 69 — 911 897 393 209 77 161 9 2,726 1\nPrior 66 158 1,146 1,018 2,351 388 189 97 449 5,862 58\nTotal $ 135 $ 1,093 $ 10,446 $ 11,933 $ 8,494 $ 1,087 $ 305 $ 434 $ 573 $ 34,500 $ 95\nRevolving loans — — — 1,222 55 30 — — 12 1,319\nRevolving Contracts\nConverted to Term\nContracts — — 22 — 34 — — — — 56\nTotal disbursed loans $ 135 $ 1,093 $ 10,468 $ 13,155 $ 8,583 $ 1,117 $ 305 $ 434 $ 585 $ 35,875\nUnamortized deferred loan origination fees, net and other (146)\nLoans at amortized cost $ 35,729\nJune 30, 2023\n(US$ in millions) Loans at Amortized cost basis by Risk class\nVery\nWeak/ Extremely Imminent\nOriginated during the year Very Special Very Weak/ Weak/ Default/ Total\nended June 30, Strong Strong Adequate Moderate Weak Attention Substandard Doubtful Default Contracts\n2023 $ — $ 590 $ 1,525 $ 2,475 $ 1,559 $ 72 $ 20 $ 4 $ — $ 6,245\n2022 — 470 1,186 2,255 1,471 143 — 62 — 5,587\n2021 — 66 1,456 2,608 1,409 145 21 — 10 5,715\n2020 69 — 1,129 1,196 586 257 59 91 6 3,393\n2019 — 127 295 832 782 182 18 52 52 2,340\nPrior 40 222 885 1,454 2,241 427 166 189 643 6,267\nTotal $ 109 $ 1,475 $ 6,476 $ 10,820 $ 8,048 $ 1,226 $ 284 $ 398 $ 711 $ 29,547\nRevolving Loans — — — 1,569 86 — 25 — — 1,680\nRevolving contracts\nconverted to Term\ncontracts — — 7 10 — — — — — 17\nTotal disbursed loans $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244\nUnamortized deferred loan origination fees, net and other (127)\nLoans at amortized cost $ 31,117\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 94']]
+--------------------------------------------------
+
+Page 94
+Table 2:
+[['2024 $ — $ 119 $ 3,519 $ 2,785 $ 1,409 $ 147 $ 20 $ 22 $ 9 $ 8,030 $ —', None], ['2023 — 460 2,161 3,306 2,127 110 6 123 — 8,293 —', None], ['2022 — 356 1,423 2,049 1,270 225 — 31 98 5,452 36', None], ['2021 — — 1,286 1,878 944 8 13 — 8 4,137 —', None], ['2020 69 — 911 897 393 209 77 161 9 2,726 1', None], ['Prior 66 158 1,146 1,018 2,351 388 189 97 449 5,862 58', None], ['Total $ 135 $ 1,093 $ 10,446 $ 11,933 $ 8,494 $ 1,087 $ 305 $ 434 $ 573 $ 34,500 $ 95', None], ['Revolving loans — — — 1,222 55 30 — — 12 1,319', None], ['Revolving Contracts\nConverted to Term\nContracts — — 22 — 34 — — — — 56', None], ['Total disbursed loans $ 135 $ 1,093 $ 10,468 $ 13,155 $ 8,583 $ 1,117 $ 305 $ 434 $ 585 $ 35,875', None], ['Unamortized deferred loan origination fees, net and other', '(146)'], ['Loans at amortized cost', '$ 35,729']]
+--------------------------------------------------
+
+Page 94
+Table 3:
+[['2023 $ — $ 590 $ 1,525 $ 2,475 $ 1,559 $ 72 $ 20 $ 4 $ — $ 6,245', None], ['2022 — 470 1,186 2,255 1,471 143 — 62 — 5,587', None], ['2021 — 66 1,456 2,608 1,409 145 21 — 10 5,715', None], ['2020 69 — 1,129 1,196 586 257 59 91 6 3,393', None], ['2019 — 127 295 832 782 182 18 52 52 2,340', None], ['Prior 40 222 885 1,454 2,241 427 166 189 643 6,267', None], ['Total $ 109 $ 1,475 $ 6,476 $ 10,820 $ 8,048 $ 1,226 $ 284 $ 398 $ 711 $ 29,547', None], ['Revolving Loans — — — 1,569 86 — 25 — — 1,680', None], ['Revolving contracts\nconverted to Term\ncontracts — — 7 10 — — — — — 17', None], ['Total disbursed loans $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244', None], ['Unamortized deferred loan origination fees, net and other', '(127)'], ['Loans at amortized cost $ 31,117', None]]
+--------------------------------------------------
+
+Page 95
+Table 1:
+[['Geographic Region', None], ['Africa $ — $ 7 $ 638 $ 2,470 $ 3,564 $ 534 $ 181 $ 219 $ 161 $ 7,774', None], ['Asia and Pacific 69 520 4,229 2,844 2,163 62 — 3 43 9,933', None], ['Latin America and the\nCaribbean, and\nEurope — 55 5,031 4,757 1,318 264 85 207 180 11,897', None], ['Middle East, Central\nAsia, Türkiye,\nPakistan, and\nAfghanistan — 19 225 2,113 1,538 257 39 5 201 4,397', None], ['Other 66 492 345 971 — — — — — 1,874', None], ['Total geographic\nregion $ 135 $ 1,093 $ 10,468 $ 13,155 $ 8,583 $ 1,117 $ 305 $ 434 $ 585 $ 35,875', None], ['Unamortized deferred loan origination fees, net and other', '(146)']]
+--------------------------------------------------
+
+Page 95
+Table 2:
+[['Industry Sector', None], ['Manufacturing,\nagribusiness and\nservices $ 135 $ 301 $ 3,973 $ 5,467 $ 1,725 $ 370 $ 64 $ 88 $ 311 $ 12,434', None], ['Financial markets — 737 4,800 6,205 4,146 92 39 25 41 16,085', None], ['Infrastructure and\nnatural resources — 55 1,695 1,483 2,712 655 185 321 229 7,335', None], ['Disruptive technologies\nand funds — — — — — — 17 — 4 21', None], ['Total industry sector $ 135 $ 1,093 $ 10,468 $ 13,155 $ 8,583 $ 1,117 $ 305 $ 434 $ 585 $ 35,875', None], ['Unamortized deferred loan origination fees, net and other', '(146)']]
+--------------------------------------------------
+
+Page 96
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 96\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nJune 30, 2023\nVery\nWeak/\nExtremely Imminent\nVery Special Very Weak/ Weak/ Default/\n(US$ in millions) Strong Strong Adequate Moderate Weak Attention Substandard Doubtful Default Total\nGeographic Region\nAfrica $ — $ 25 $ 394 $ 1,992 $ 3,303 $ 313 $ 205 $ 137 $ 209 $ 6,578\nAsia and Pacific 69 460 3,284 3,250 2,019 192 6 18 78 9,376\nLatin America and the\nCaribbean, and\nEurope — 517 2,515 4,255 1,497 356 98 215 170 9,623\nMiddle East, Central\nAsia, Türkiye,\nPakistan, and\nAfghanistan — — 179 1,537 1,315 365 0 28 254 3,678\nOther 40 473 111 1,365 — — — — — 1,989\nTotal geographic\nregion $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244\nUnamortized deferred loan origination fees, net and other (127)\nLoans at amortized cost $ 31,117\nJune 30, 2023\nVery\nWeak/\nExtremely Imminent\nVery Special Very Weak/ Weak/ Default/\n(US$ in millions) Strong Strong Adequate Moderate Weak Attention Substandard Doubtful Default Total\nIndustry Sector\nManufacturing,\nagribusiness and\nservices $ 109 $ 770 $ 2,992 $ 4,147 $ 1,685 $ 339 $ 223 $ 145 $ 322 $ 10,732\nFinancial markets — 638 2,626 6,676 3,686 155 28 36 52 13,897\nInfrastructure and\nnatural resources — 67 865 1,576 2,763 732 58 217 333 6,611\nDisruptive technologies\nand funds — — — — — — — — 4 4\nTotal industry sector $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244\nUnamortized deferred loan origination fees, net and other (127)\nLoans at amortized cost $ 31,117\nModifications for Borrowers Experiencing Financial Difficulties\nIFC adopted ASU 2022-02 Financial Instruments – Credit Losses (Topic 326), Troubled Debt Restructurings and Vintage Disclosures\neffective July 1, 2023. All related disclosures for the year ended June 30, 2024 are provided on a prospective basis in accordance with\nthe ASU. These disclosures do not include loan modifications and the effects related to suspension and standstill agreements where\nprincipal and interest payments are temporarily suspended. As of June 30, 2024 amortized cost of these loans amounted to $71 million.\nLoans are modified through changes in interest rates, repayment schedules, and maturity date, in addition to reductions of loan\nprincipal and waiver of accrued interest. For loans at amortized cost, the following table presents information related to modifications for\nborrowers experiencing financial difficulties, per major modification types (including interest rate reduction, other-than-insignificant\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 96']]
+--------------------------------------------------
+
+Page 96
+Table 2:
+[['Geographic Region', None, None], ['Africa $ — $ 25 $ 394 $ 1,992 $ 3,303 $ 313 $ 205 $ 137 $ 209 $ 6,578', None, None], ['Asia and Pacific 69 460 3,284 3,250 2,019 192 6 18 78 9,376', None, None], ['Latin America and the\nCaribbean, and\nEurope — 517 2,515 4,255 1,497 356 98 215 170 9,623', None, None], ['Middle East, Central\nAsia, Türkiye,\nPakistan, and\nAfghanistan — — 179 1,537 1,315 365 0 28 254 3,678', None, None], ['Other 40 473 111 1,365 — — — — — 1,989', None, None], ['Total geographic\nregion $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244', None, None], ['Unamortized deferred loan origination fees, net and other', None, '(127)'], ['Loans at amortized cost', '$ 31,117', None]]
+--------------------------------------------------
+
+Page 96
+Table 3:
+[['Industry Sector', None, None], ['Manufacturing,\nagribusiness and\nservices $ 109 $ 770 $ 2,992 $ 4,147 $ 1,685 $ 339 $ 223 $ 145 $ 322 $ 10,732', None, None], ['Financial markets — 638 2,626 6,676 3,686 155 28 36 52 13,897', None, None], ['Infrastructure and\nnatural resources — 67 865 1,576 2,763 732 58 217 333 6,611', None, None], ['Disruptive technologies\nand funds — — — — — — — — 4 4', None, None], ['Total industry sector $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244', None, None], ['Unamortized deferred loan origination fees, net and other', None, '(127)'], ['Loans at amortized cost', '$ 31,117', None]]
+--------------------------------------------------
+
+Page 98
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 98\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nFor the Year ended June 30, 2024\nPrincipal\nInterest Rate Forgive- Other than Insignificant\n(US$ in millions) Reduction Term Extension ness Payment Delay\nWeighted Average Weighted Weighted\nInterest Rate Average Months Principal Amount Average Months\nReduction % Extended Forgiven Delayed Delayed\nAfrica\nManufacturing, agribusiness and services 1.7 % 64 $ 5 $ 39 44\nInfrastructure and natural resources — 42 3 8 12\nTotal Africa 1.7 106 8 47 56\nAsia and Pacific\nManufacturing, agribusiness and services — — — 8 6\nInfrastructure and natural resources — 36 — 33 36\nTotal Asia and Pacific — 36 — 41 42\nLatin America and the Caribbean, and Europe\nManufacturing, agribusiness and services 8.4 91 — 106 26\nFinancial markets — 12 — 4 12\nInfrastructure and natural resources 2.4 152 15 16 177\nTotal Latin America and the Caribbean, and\nEurope 10.8 255 15 126 215\nMiddle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan\nInfrastructure and natural resources — 36 — 67 34\nTotal Middle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan — 36 — 67 34\nTotal disbursed loans 12.5 % 433 $ 23 $ 281 347\nFor loans at amortized cost, the following table presents an aging analysis of loan modifications made for borrowers experiencing\nfinancial difficulty from July 1, 2023 through June 30, 2024, presented by geographic region and industry sector as of June 30, 2024.\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 98']]
+--------------------------------------------------
+
+Page 98
+Table 2:
+[['Principal\nInterest Rate Forgive-\n(US$ in millions) Reduction Term Extension ness', 'Other than Insignificant\nPayment Delay'], ['Weighted Average Weighted Weighted\nInterest Rate Average Months Principal Amount Average Months\nReduction % Extended Forgiven Delayed Delayed', None], ['Africa', None], ['Manufacturing, agribusiness and services 1.7 % 64 $ 5 $ 39 44', None], ['Infrastructure and natural resources — 42 3 8 12', None], ['Total Africa 1.7 106 8 47 56', None], ['Asia and Pacific', None], ['Manufacturing, agribusiness and services — — — 8 6', None], ['Infrastructure and natural resources — 36 — 33 36', None], ['Total Asia and Pacific — 36 — 41 42', None], ['Latin America and the Caribbean, and Europe', None], ['Manufacturing, agribusiness and services 8.4 91 — 106 26', None], ['Financial markets — 12 — 4 12', None], ['Infrastructure and natural resources 2.4 152 15 16 177', None], ['Total Latin America and the Caribbean, and\nEurope 10.8 255 15 126 215', None], ['Middle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan', None], ['Infrastructure and natural resources — 36 — 67 34', None], ['Total Middle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan — 36 — 67 34', None], ['Total disbursed loans 12.5 % 433 $ 23 $ 281 347', None]]
+--------------------------------------------------
+
+Page 99
+Table 1:
+[['Interest Rate\nReduction,\nTerm\nExtension and\nPayment Payment Total Loan\n(US$ in millions) Delay Delay Modification a', None], ['Africa', None], ['Manufacturing, agribusiness and services $ 3 $ — $ 3', None], ['Total Africa 3', '— — 3'], ['Latin America and the Caribbean, and Europe', None], ['Manufacturing, agribusiness and services — 24 24', None], ['Total Latin America and the Caribbean, and Europe —', '— 24 24'], ['Middle East, Central Asia, Türkiye, Pakistan, and Afghanistan', None], ['Infrastructure and natural resources — 25 25', None], ['Total Middle East, Central Asia, Türkiye, Pakistan, and Afghanistan —', '— 25 25'], ['Total $ 3 $ 49 $ 52', None]]
+--------------------------------------------------
+
+Page 100
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 100\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nTroubled Debt Restructurings Disclosures Prior to the Adoption of ASU 2022-02\nLoans are modified through changes in interest rates, repayment schedules, and maturity date, in addition to reductions of loan\nprincipal and waiver of accrued interest. The following table presents information related to loan modifications, including past due\namounts capitalized and written off, during the years ended June 30, 2023 and June 30, 2022 that are considered Troubled Debt\nRestructurings (TDRs), prior to the adoption of ASU 2022-02, as defined by the previous accounting guidance in effect at that time:\nFor the year ended June 30,\n2023 2022\nNumber Number\n(US$ in millions) of TDRs Amount of TDRs Amount\nLoans modified as TDRs 20 $ 568 31 $ 792\nLoan at amortized cost modifications considered TDRs during the years ended June 30, 2023 and June 30, 2022 is summarized by\ngeographic region and industry sector as follows:\nFor the year ended June 30, 2023\nManufacturing, Infrastructure Total Loan\nagribusiness Financial and natural modifications\n(US$ in millions) and services markets resources considered TDRs a\nGeographic Region\nAfrica $ 151 $ — $ — $ 151\nAsia and Pacific 70 9 14 93\nMiddle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan — — 160 160\nLatin America and the Caribbean, and Europe — 5 159 164\nTotal $ 221 $ 14 $ 333 $ 568\nFor the year ended June 30, 2022\nTotal Loan\nManufacturing, Infrastructure\nagribusiness Financial and natural modifications\n(US$ in millions) and services markets resources considered TDRs a\nGeographic Region\nAfrica $ 112 $ — $ 53 $ 165\nAsia and Pacific 106 — 24 130\nMiddle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan — 46 240 286\nLatin America and the Caribbean, and Europe 98 21 92 211\nTotal $ 316 $ 67 $ 409 $ 792\n___________\na Includes all components of amortized cost except unamortized fees which are considered insignificant.\nFollowing is a summary of loans that defaulted during the years ended June 30, 2023 and June 30, 2022 that had been modified in a\ntroubled debt restructuring within 12 months prior to the date of default:\nFor the year ended June 30,\n(US$ in millions, except for number of loans) 2023 2022\nLoan amount $ 137 $ 43\nNumber of Loans 12 7\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 100']]
+--------------------------------------------------
+
+Page 104
+Table 1:
+[['Interest income not recognized on nonaccruing debt securities $ 9', '$ 1', '$ 3'], ['Interest income recognized on debt securities in nonaccrual status related to current\nand prior years, on a cash basis 1', '—', '1']]
+--------------------------------------------------
+
+Page 113
+Table 1:
+[['Risk Management purposes:', None], ['Investments a Currency swaps, currency forward contracts, Manage currency and interest rate risk\ninterest rate swaps, options, swaptions and futures\ncontracts, to-be-announced (TBA) securities', None], ['Loans Currency swaps and interest rate swaps Manage currency risk and interest rate risk\nbetween loans and borrowings', None], ['Currency swaps and interest rate swaps Manage currency risk and interest rate risk\nBorrowings\nbetween loans and borrowings', None], ['Other asset/liability\nmanagement', "Currency swaps and interest rate swaps Manage currency risk and duration of IFC's\nequity"], ['Other purposes:', None], ['Currency swaps, currency forward contracts and Assist clients in managing risks\nClient operations\ninterest rate swaps', None]]
+--------------------------------------------------
+
+Page 115
+Table 1:
+[['IFC Local Currency Borrowings IFC Yield Curve Decrease in Fair Value', None, None], ['Interest Rate Swaps (hedging loans Yield Curve Points Increase in Fair Value\nand liquid assets)', None, None], ['Interest Rate Swaps (hedging Yield Curve Points Decrease in Fair Value\nborrowings)', None, None], ['Currency Swaps (hedging loans and Yield Curve and Exchange Rates Increase in Fair Value\nliquid assets)', None, None], ['Currency Swaps (hedging borrowings) Yield Curve and Exchange Rates Decrease in Fair Value', None, None], ['Debt Securities and Loans', 'Discount Rates, Credit Default Spreads Decrease in Fair Value', None], [None, 'Valuation Multiple, Recovery Rates', 'Increase in Fair Value'], ['', 'Cost of equity, discounts for lack of Decrease in Fair Value\nmarketability, weighted average cost of capital', None], ['Equity Securities and Equity Related\nDerivatives', 'Growth rates, return on assets, perpetual Increase in Fair Value\ngrowth rates, EV/EBITDA, price to book value\nand other valuation multiples and volatilities', None]]
+--------------------------------------------------
+
+Page 120
+Table 1:
+[['Financial assets', '', ''], ['Cash and due from banks, time deposits, trading securities and\nsecurities purchased under resale agreements and receivable\nfor cash collateral pledged $ 40,314', '$ 40,314', '$ 47,478 $ 47,478'], ['Investments:', '', ''], ['Loans at amortized cost, net of reserve against losses 34,648', '35,711', '29,908 30,369'], ['Loans accounted for at fair value under the Fair Value Option 1,789', '1,789', '1,506 1,506'], ['Total loans 36,437', '37,500', '31,414 31,875'], ['Equity investments accounted for at fair value 11,121 a', '11,118', '10,778 a 10,776'], ['Debt securities accounted for at fair value as available-for-sale 811', '811', '1,373 1,373'], ['Debt securities accounted for at fair value under the Fair Value\nOption 10,378', '10,378', '7,937 7,937'], ['Total debt securities 11,189', '11,189', '9,310 9,310'], ['Total investments $ 58,747', '$ 59,807', '$ 51,502 $ 51,961'], ['Derivative assets:', '', ''], ['Borrowings-related 183', '183', '2,795 2,795'], ['Liquid asset portfolio-related and other 365', '365', '433 433'], ['Investment-related 1,978', '1,978', '1,977 1,977'], ['Client risk management-related 428', '428', '517 517'], ['Total derivative assets $ 2,954', '$ 2,954', '$ 5,722 $ 5,722'], ['Other investment-related financial assets —', '2', '— 3'], ['Financial liabilities', '', ''], ['Securities sold under repurchase agreements and payable for\ncash collateral received $ 1,541', '$ 1,541', '$ 6,631 $ 6,631'], ['Market, IBRD, IDA and other borrowings outstanding 55,755', '55,754', '52,443 52,433'], ['Derivative liabilities:', '', ''], ['Borrowings-related 6,648', '6,648', '10,032 10,032'], ['Liquid asset portfolio-related and other 77', '77', '241 241'], ['Investment-related 312', '312', '523 523'], ['Client risk management-related 319', '319', '399 399'], ['Total derivative liabilities $ 7,356', '$ 7,356', '$ 11,195 $ 11,195']]
+--------------------------------------------------
+
+Page 132
+Table 1:
+[['A', 's of June 30, 2024, undisbursed donor funds of $575 million ($574 million as of June 30, 20'], ['undisbursed donor funds are refundable, a corresponding liability is recorded in other liabilities', None]]
+--------------------------------------------------
+
+Page 140
+Table 1:
+[['Cash collateral received', '$ 498', '$ 185']]
+--------------------------------------------------
+
+Page 140
+Table 2:
+[['Cash collateral pledged', '1,220', '5,170']]
+--------------------------------------------------
+
+Page 140
+Table 3:
+[['Repurchase agreements', None, None], ['U.S. Treasury securities $ — $ 191 $ 331 $ 529 $ 1,051', None, None], ['Total Repurchase agreements $ — $ 191 $ 331 $ 529 $ 1,051', None, None], ['', 'Plus cash collateral payable', '498'], ['', 'Less: accrued interest on cash collateral and repos, net.', '(8)'], ['', 'Securities sold under repurchase agreements and\npayable for cash collateral received', '$ 1,541']]
+--------------------------------------------------
+
+Page 141
+Table 1:
+[['Repurchase agreements', None, None], ['U.S. Treasury securities $ — $ 1,479 $ 3,530 $ 1,474 $ 6,483', None, None], ['Total Repurchase agreements $ — $ 1,479 $ 3,530 $ 1,474 $ 6,483', None, None], ['', 'Plus cash collateral payable', '185'], ['', 'Less: accrued interest on cash collateral and repos, net.', '$ (37)'], ['', 'Securities sold under repurchase agreements and\npayable for cash collateral received', '$ 6,631']]
+--------------------------------------------------
+
+Page 143
+Table 1:
+[['', 'Algeria', '15', '303,557', '5,557', '309,114'], ['', 'Angola', '12', '1,115,087', '0', '1,115,087'], ['', 'Benin', '16', '382,514', '0', '382,514'], ['', 'Botswana', '9', '102,952', '0', '102,952'], ['', 'Burkina Faso', '33', '1,541,083', '0', '1,541,083'], ['', 'Burundi', '11', '68,648', '7,500', '76,148'], ['', 'Cabo Verde', '9', '65,941', '0', '65,941'], ['', 'Cameroon', '47', '1,081,199', '471,500', '1,552,699'], ['', 'Central African Republic', '1', '9,880', '0', '9,880'], ['', 'Chad', '13', '170,314', '13,900', '184,214'], ['', 'Comoros', '1', '14,888', '0', '14,888'], ['', 'Congo, Democratic Republic of', '37', '807,086', '143,800', '950,886'], ['', 'Congo, Republic of', '12', '164,432', '25,000', '189,432'], ['', "Côte d'Ivoire", '88', '1,623,509', '175,275', '1,798,783'], ['', 'Djibouti', '2', '9,290', '0', '9,290'], ['', 'Egypt, Arab Republic of', '152', '5,922,853', '1,133,389', '7,056,242'], ['', 'Eritrea', '1', '949', '0', '949'], ['', 'Eswatini', '9', '47,779', '0', '47,779'], ['', 'Ethiopia', '27', '982,657', '46,336', '1,028,993'], ['', 'Gabon', '7', '342,668', '110,000', '452,668'], ['', 'Gambia, The', '10', '47,270', '0', '47,270'], ['', 'Ghana', '96', '3,559,204', '913,750', '4,472,954'], ['', 'Guinea', '26', '705,750', '191,000', '896,750'], ['', 'Guinea-Bissau', '5', '9,156', '0', '9,156'], ['', 'Kenya', '151', '5,121,472', '278,936', '5,400,408'], ['', 'Lesotho', '2', '454', '0', '454'], ['', 'Liberia', '15', '283,660', '0', '283,660'], ['', 'Madagascar', '31', '525,449', '21,000', '546,449'], ['', 'Malawi', '24', '300,692', '9,500', '310,192'], ['', 'Mali', '39', '383,483', '40,000', '423,483'], ['', 'Mauritania', '18', '241,093', '79,503', '320,595'], ['', 'Mauritius', '21', '510,203', '96', '510,299'], ['', 'Morocco', '65', '1,859,972', '526,934', '2,386,905'], ['', 'Mozambique', '36', '615,717', '136,913', '752,630'], ['', 'Namibia', '10', '198,391', '0', '198,391'], ['', 'Niger', '8', '97,612', '0', '97,612'], ['', 'Nigeria', '149', '23,789,869', '1,578,005', '25,367,874'], ['', 'Rwanda', '28', '359,611', '10,000', '369,611'], ['', 'São Tomé and Príncipe', '2', '2,051', '0', '2,051']]
+--------------------------------------------------
+
+Page 144
+Table 1:
+[['', 'Senegal', '61', '1,042,871', '177,194', '1,220,065'], ['', 'Seychelles', '8', '49,443', '12,000', '61,443'], ['', 'Sierra Leone', '14', '223,622', '25,000', '248,622'], ['', 'Somalia', '2', '975', '0', '975'], ['', 'South Africa', '132', '7,185,105', '190,025', '7,375,130'], ['', 'South Sudan', '2', '8,750', '0', '8,750'], ['', 'Sudan', '6', '27,268', '6,489', '33,757'], ['', 'Tanzania', '73', '1,391,697', '15,541', '1,407,237'], ['', 'Togo', '23', '459,426', '0', '459,426'], ['', 'Tunisia', '38', '637,334', '427,228', '1,064,561'], ['', 'Uganda', '60', '684,944', '86,788', '771,732'], ['', 'Zambia', '51', '546,883', '20,286', '567,169'], ['', 'Zimbabwe', '51', '284,262', '99,000', '383,262'], ['', 'Regional Investments: Africa', '201', '6,396,690', '82,182', '6,478,872'], ['Central Asia and Türkiye', None, None, None, None, None], ['', 'Kazakhstan', '40', '1,859,079', '302,933', '2,162,012'], ['', 'Kyrgyz Republic', '19', '177,826', '0', '177,826'], ['', 'Tajikistan', '23', '238,363', '0', '238,363'], ['', 'Türkiye', '236', '23,492,494', '4,235,087', '27,727,581'], ['', 'Turkmenistan', '1', '35,000', '0', '35,000'], ['', 'Uzbekistan', '34', '997,640', '22,900', '1,020,540'], ['', 'Regional Investments:\nCentral Asia and Türkiye', '3', '60,000', '0', '60,000'], ['East Asia and the Pacific', None, None, None, None, None], ['', 'Cambodia', '21', '813,991', '660,727', '1,474,719'], ['', 'China', '357', '14,835,293', '2,735,933', '17,571,226'], ['', 'Fiji', '12', '57,493', '2,500', '59,993'], ['', 'Indonesia', '159', '6,492,207', '3,149,331', '9,641,538'], ['', 'Kiribati', '1', '1,798', '0', '1,798'], ['', 'Korea, Republic of', '53', '1,208,449', '195,700', '1,404,149'], ['', "Lao People's Democratic\nRepublic", '16', '132,202', '10,000', '142,202'], ['', 'Malaysia', '13', '204,868', '5,389', '210,258'], ['', 'Mongolia', '22', '1,437,739', '976,428', '2,414,167'], ['', 'Myanmar', '32', '874,352', '20,000', '894,352'], ['', 'Papua New Guinea', '13', '412,139', '25,000', '437,139'], ['', 'Philippines', '129', '4,478,604', '718,470', '5,197,073'], ['', 'Samoa', '8', '22,097', '0', '22,097'], ['', 'Solomon Islands', '3', '55,000', '0', '55,000'], ['', 'Thailand', '103', '4,255,877', '1,763,419', '6,019,297'], ['', 'Timor-Leste', '3', '8,000', '0', '8,000'], ['', 'Tonga', '1', '6,787', '0', '6,787'], ['', 'Vanuatu', '4', '18,104', '0', '18,104'], ['', 'Viet Nam', '94', '13,622,872', '756,706', '14,379,578'], ['', 'Regional Investments:\nEast Asia and the Pacific', '90', '2,728,909', '0', '2,728,909']]
+--------------------------------------------------
+
+Page 145
+Table 1:
+[['', 'Albania', '23', '562,391', '78,613', '641,004'], ['', 'Armenia', '23', '832,509', '0', '832,509'], ['', 'Azerbaijan', '27', '619,654', '212,930', '832,584'], ['', 'Belarus', '21', '809,388', '18,000', '827,388'], ['', 'Bosnia and Herzegovina', '33', '358,576', '10,578', '369,154'], ['', 'Bulgaria', '32', '1,090,476', '183,647', '1,274,123'], ['', 'Croatia', '24', '1,130,465', '228,199', '1,358,664'], ['', 'Georgia', '34', '1,270,321', '49,825', '1,320,146'], ['', 'Kosovo', '11', '93,601', '0', '93,601'], ['', 'Moldova', '18', '285,454', '45,000', '330,454'], ['', 'Montenegro', '7', '100,203', '0', '100,203'], ['', 'North Macedonia', '17', '304,463', '25,000', '329,463'], ['', 'Poland', '63', '1,510,866', '135,317', '1,646,183'], ['', 'Romania', '70', '5,528,633', '867,489', '6,396,122'], ['', 'Russian Federation', '194', '8,797,461', '2,523,372', '11,320,833'], ['', 'Serbia', '47', '2,165,216', '369,723', '2,534,939'], ['', 'Ukraine', '69', '3,880,379', '976,251', '4,856,630'], ['', 'Regional Investments: Europe', '73', '4,819,248', '349,773', '5,169,021'], ['Latin America and the Caribbean', None, None, None, None, None], ['', 'Antigua and Barbuda', '1', '30,000', '0', '30,000'], ['', 'Argentina', '213', '8,520,810', '6,161,343', '14,682,152'], ['', 'Barbados', '7', '29,025', '0', '29,025'], ['', 'Belize', '4', '33,066', '11,000', '44,066'], ['', 'Bolivia', '33', '627,030', '155,500', '782,530'], ['', 'Brazil', '356', '28,110,105', '10,141,753', '38,251,858'], ['', 'Chile', '84', '4,876,516', '1,578,155', '6,454,671'], ['', 'Colombia', '168', '6,843,121', '1,748,198', '8,591,319'], ['', 'Costa Rica', '37', '1,928,795', '104,709', '2,033,504'], ['', 'Dominica', '1', '700', '0', '700'], ['', 'Dominican Republic', '39', '1,038,822', '241,850', '1,280,672'], ['', 'Ecuador', '32', '2,160,235', '197,740', '2,357,975'], ['', 'El Salvador', '23', '2,408,259', '256,000', '2,664,259'], ['', 'Grenada', '2', '8,000', '0', '8,000'], ['', 'Guatemala', '33', '3,588,034', '230,000', '3,818,034'], ['', 'Guyana', '8', '76,417', '0', '76,417'], ['', 'Haiti', '17', '146,735', '26,000', '172,735'], ['', 'Honduras', '29', '2,426,121', '142,901', '2,569,022'], ['', 'Jamaica', '25', '557,846', '194,244', '752,090'], ['', 'Mexico', '267', '10,522,525', '2,985,750', '13,508,274'], ['', 'Nicaragua', '28', '1,780,985', '206,036', '1,987,021'], ['', 'Panama', '37', '2,916,237', '153,300', '3,069,537'], ['', 'Paraguay', '20', '2,040,349', '53,000', '2,093,349'], ['', 'Peru', '85', '3,329,061', '1,062,099', '4,391,161'], ['', 'St. Lucia', '5', '80,422', '35,000', '115,422'], ['', 'Suriname', '1', '4,066', '0', '4,066'], ['', 'Trinidad and Tobago', '19', '433,654', '235,000', '668,654'], ['', 'Uruguay', '22', '475,842', '120,000', '595,842']]
+--------------------------------------------------
+
+Page 146
+Table 1:
+[['', 'Venezuela, Republica Bolivariana\nde', '39', '897,230', '703,791', '1,601,021'], ['', 'Regional Investments: Latin\nAmerica and the Caribbean', '112', '3,001,074', '350,000', '3,351,074'], ['Middle East', None, None, None, None, None], ['', 'Afghanistan', '10', '249,254', '0', '249,254'], ['', 'Bahrain', '2', '340,271', '0', '340,271'], ['', 'Iran, Islamic Republic of', '11', '63,343', '8,199', '71,542'], ['', 'Iraq', '21', '1,368,985', '486,270', '1,855,255'], ['', 'Jordan', '75', '2,539,508', '725,617', '3,265,125'], ['', 'Lebanon', '43', '6,323,413', '230,430', '6,553,843'], ['', 'Oman', '7', '319,853', '57,000', '376,853'], ['', 'Pakistan', '160', '10,623,657', '759,249', '11,382,906'], ['', 'Saudi Arabia', '13', '726,277', '0', '726,277'], ['', 'Syrian Arab Republic', '4', '24,732', '0', '24,732'], ['', 'United Arab Emirates', '20', '485,252', '30,000', '515,252'], ['', 'West Bank and Gaza', '29', '570,606', '10,000', '580,606'], ['', 'Yemen, Republic of', '17', '281,004', '96,105', '377,109'], ['', 'Regional Investments:\nMiddle East', '35', '1,537,775', '3,000', '1,540,775'], ['South Asia', None, None, None, None, None], ['', 'Bangladesh', '82', '8,661,165', '199,120', '8,860,286'], ['', 'Bhutan', '6', '54,517', '0', '54,517'], ['', 'India', '611', '24,168,394', '1,743,640', '25,912,033'], ['', 'Maldives', '10', '293,250', '8,500', '301,750'], ['', 'Nepal', '34', '573,221', '63,520', '636,741'], ['', 'Sri Lanka', '54', '2,036,973', '128,616', '2,165,588'], ['', 'Regional Investments:\nSouth Asia', '12', '312,023', '15,000', '327,023'], ['Worldwide', None, None, None, None, None], ['', 'Australia', '2', '975', '0', '975'], ['', 'Cyprus', '8', '32,181', '645', '32,827'], ['', 'Czechia', '18', '455,176', '245,588', '700,764'], ['', 'Estonia', '11', '137,806', '11,855', '149,661'], ['', 'Finland', '4', '1,233', '1,915', '3,148'], ['', 'Greece', '15', '998,689', '40,131', '1,038,821'], ['', 'Hungary', '34', '790,041', '70,335', '860,376'], ['', 'Israel', '1', '10,500', '0', '10,500'], ['', 'Italy', '1', '960', '0', '960'], ['', 'Latvia', '7', '80,967', '35,000', '115,967'], ['', 'Lithuania', '11', '95,041', '9,309', '104,350'], ['', 'Portugal', '7', '51,811', '11,000', '62,811'], ['', 'Slovak Republic', '7', '115,544', '0', '115,544'], ['', 'Slovenia', '13', '292,535', '47,383', '339,918'], ['', 'Spain', '5', '19,043', '1,685', '20,728'], ['', 'Regional Investments:\nWorldwide', '229', '30,804,668', '539,134', '31,343,802'], ['', 'Other2', '9', '367,868', '1,400', '369,268'], ['', '', '7,621', '369,693,745', '61,386,880', '431,080,625']]
+--------------------------------------------------
+
+Page 4
+Table 1:
+[['Investments Highlights (Section III)', '', '', '', '', ''], ['Own Account Commitments\n(Long-Term Finance (LTF) and Short-Term\nFinance (STF) Commitments)', '', '', '$\x08 31,654', '$\x08 27,704', '$\x08 22,228'], ['Core Mobilization\n(LTF and STF Commitments)a', '', '', '24,433', '16,025', '11,363'], ['Disbursements', '', '', '19,147', '18,689', '13,198'], ['Statement of Operations', '', '', '', '', ''], ['Net income (loss) (Section VIII)', '', '', '$\x08 1,485', '$\x08 672', '$ (464)'], ['Income available for designationb (Section II)', '', '', '1,558', '681', '382'], ['AS OF THE YEAR ENDED JUNE 30\n(US$ in millions) 2024 2023', None, None, None, None, None], ['Balance Sheet', '', '', '', '', ''], ['Total assets', '', '', '$108,187', '$\x08110,547', ''], ['Liquid assetsc (Section IV)', '', '', '37,734', '40,120', ''], ['Investments (Section III)', '', '', '58,747', '51,502', ''], ['Borrowings outstanding, including fair value\nadjustments (Section V)', '', '', '55,755', '52,443', ''], ['Total capital (Section V)', '', '', '37,472', '35,038', '']]
+--------------------------------------------------
+
+Page 4
+Table 2:
+[['Capital Utilization Ratio', '', '', '', '', ''], ['Capital Utilization Ratio (CUR)', '', '', '60.5%', '60.7%', '']]
+--------------------------------------------------
+
+Page 6
+Table 1:
+[['', None], [None, '']]
+--------------------------------------------------
+
+Page 8
+Table 1:
+[['Net income (loss)', '$\x08 1,485', '$\x08 672', '$ ( 464)'], ['Adjustments to reconcile Net income (loss) to Income Available for Designations', '', '', ''], ['Unrealized losses (gains) on investments', '49', '(41)', '740'], ['Unrealized losses on borrowings', '54', '50', '106'], ['PCRF Income', '(30)', '–', '–'], ['Income Available for Designations', '$\x08 1,558', '$\x08 681', '$ 382']]
+--------------------------------------------------
+
+Page 9
+Table 1:
+[['Consolidated statement of operations highlights:', '', '', ''], ['Income from loans and guarantees, including realized gains and losses on loans\nand associated derivatives', '$ 3,204', '$ 2,290', '$ 1,156'], ['Provision for losses on loans, off-balance sheet credit exposures\nand other receivables', '(9)', '(22)', '(126)'], ['Income from equity investments and associated derivatives', '142', '191', '208'], ['Income from debt securities, including realized gains and losses on debt securities\nand associated derivatives', '811', '518', '414'], ['Provision for losses on available-for-sale debt securities', '(12)', '(7)', '(14)'], ['Income (loss) from liquid asset trading activities', '2,391', '1,464', '(413)'], ['Charges on borrowings', '(3,815)', '(2,598)', '(302)'], ['Other income', '587', '518', '419'], ['Other expenses', '(1,827)', '(1,721)', '(1,653)'], ['Foreign currency transaction (losses) gains on non-trading activities', '(115)', '(86)', '76'], ['Income (loss) before net unrealized gains and losses on non-trading financial\ninstruments accounted for at fair value and grants to IDA', '$ 1,357', '$ 547', '$ (235)'], ['Net unrealized gains (losses) on non-trading financial instruments accounted for\nat fair value', '128', '125', '(229)'], ['Net income (loss)', '$ 1,485', '$ 672', '$ (464)'], ['AS OF THE YEAR ENDED JUNE 30\n(US$ in millions) 2024 2023', None, None, None], [None, None, None, ''], ['Consolidated balance sheet highlights:', '', '', ''], ['Total assets', '$108,187', '$ 110,547', ''], ['Liquid assetsa', '37,734', '40,120', ''], ['Investments', '58,747', '51,502', ''], ['Borrowings outstanding, including fair value adjustments', '55,755', '52,443', ''], ['Total capital', '$ 37,472', '$ 35,038', ''], ['of which', '', '', ''], ['Undesignated retained earnings', '$ 13,133', '$ 11,589', ''], ['Designated retained earnings', '162', '221', ''], ['Accumulated other comprehensive income (AOCI)', '957', '632', ''], ['Paid-in capital', '23,220', '22,596', '']]
+--------------------------------------------------
+
+Page 9
+Table 2:
+[['Overall liquidity ratioa', '', '', '', '81.0%', '103.8%'], ['Debt-to-equity ratiob', '', '', '', '1.7', '1.6'], ['Total reserve against losses on loans to total disbursed portfolioc', None, '', '', '2.9%', '3.7%'], ['Capital measures:', '', '', '', '', ''], ['Capital Availabled', '', '', '', '$ 36.6', '$ 34.8'], ['Capital Requirede', '', '', '', '22.2', '21.1'], ['Capital Utilization Ratiof', '', '', '', '60.5%', '60.7%']]
+--------------------------------------------------
+
+Page 14
+Table 1:
+[['Loans', '$ 17,822', '$ 14,135', '$ 3,687'], ['Equity investments', '1,722', '1,761', '(39)'], ['Guarantees', '1,857', '704', '1,153'], ['Client risk management', '57', '77', '(20)'], ['Total Long-Term Finance Own Account Commitments', '$ 21,458', '$ 16,677', '$ 4,781'], ['Long-Term Finance Core Mobilization', None, None, None], ['Syndication', '$ 8,079', '$ 6,165', '$ 1,914'], ['Advisory and upstream', '4,708', '3,687', '1,021'], ['Anchor investment', '4,202', '1,580', '2,622'], ['Trade finance', '1,824', '2,163', '(339)'], ['Third-party-managed funds', '2,720', '1,142', '1,578'], ['IFC-managed funds', '16', '15', '1'], ['Guarantee', '600', '—', '600'], ['Other', '355', '277', '78'], ['Total Long-Term Finance Core Mobilizationa', '$ 22,504', '$15,029', '$ 7,475'], ['Total Long-Term Finance Commitments', '$ 43,962', '$31,706', '$12,256'], ['', None, None, None], ['Short-Term Finance Commitments', '', '', ''], ['Short-Term Finance Own Account', '$ 10,196', '$ 11,027', '$ (831)'], ['Short-Term Finance Core Mobilization', '1,929', '996', '933'], ['Total Short-Term Finance Commitments', '$ 12,125', '$ 12,023', '$ 102'], ['Total Commitmentsb (Own Account and Core Mobilization)', '$ 56,087', '$ 43,729', '$12,358']]
+--------------------------------------------------
+
+Page 14
+Table 2:
+[['Loans', '$ 14,482', '$ 13,838', '$ 644'], ['Equity investments', '1,535', '1,033', '502'], ['Debt securities', '3,130', '3,818', '(688)'], ['Total Investment Disbursements', '$ 19,147', '$ 18,689', '$ 458']]
+--------------------------------------------------
+
+Page 15
+Table 1:
+[['Loans', '$ 37,726', '$32,886', '', '63%', '62%'], ['Equity investments', '10,910', '10,371', '', '18%', '20%'], ['Debt securities', '11,221', '9,556', '', '19%', '18%'], ['Total Investment Disbursements', '$59,857', '$52,813', '', '100%', '100%']]
+--------------------------------------------------
+
+Page 16
+Table 1:
+[['Finance & Insurance', '$26,503', '$23,445', '', '44%', '44%'], ['Collective Investment Vehicles', '5,216', '4,745', '', '9%', '9%'], ['Electric Power', '4,719', '4,141', '', '8%', '8%'], ['Chemicals', '2,683', '2,527', '', '5%', '5%'], ['Construction and Real Estate', '2,383', '1,978', '', '4%', '4%'], ['Transportation and Warehousing', '2,332', '2,076', '', '4%', '4%'], ['Industrial & Consumer Products', '2,199', '1,578', '', '4%', '3%'], ['Agriculture and Forestry', '1,699', '1,622', '', '3%', '3%'], ['Information', '1,615', '1,236', '', '3%', '2%'], ['Wholesale and Retail Trade', '1,546', '1,697', '', '3%', '3%'], ['Others', '8,962', '7,768', '', '15%', '15%'], ['Total', '$59,857', '$52,813', '', '100%', '100%']]
+--------------------------------------------------
+
+Page 16
+Table 2:
+[['Debt (including loan and loan-like instrumentsa)', '$ 58,534', '$ 49,713', '$ 8,821'], ['Equity (including equity and equity-like instrumentsa)', '14,646', '14,190', '456'], ['Guarantee and Credit Risk Management', '6,689', '5,596', '1,093'], ['Total Committed Investment Portfolio', '$ 79,869', '$ 69,499', '$10,370']]
+--------------------------------------------------
+
+Page 16
+Table 3:
+[['Loans', '$ 36,437', '$ 31,414', '$ 5,023'], ['Equity investments', '11,121', '10,778', '343'], ['Debt securities', '11,189', '9,310', '1,879'], ['Total Investments', '$58,747', '$ 51,502', '$ 7,245']]
+--------------------------------------------------
+
+Page 17
+Table 1:
+[['31,414 202 (1,414) (92) (356) (105)', '', '']]
+--------------------------------------------------
+
+Page 18
+Table 1:
+[['(1,115)\n(213)', '', ''], [None, '', None]]
+--------------------------------------------------
+
+Page 18
+Table 2:
+[['(1,174) (86)\n(175) (31)\n215\n9,310', '', '']]
+--------------------------------------------------
+
+Page 19
+Table 1:
+[['IFC Capitalization (Equity) Fund, LPa', '61%'], ['IFC Capitalization (Subordinated Debt) Fund, LP', '13%'], ['IFC African, Latin American and Caribbean Fund, LP', '20%'], ['IFC Catalyst Fundsb', '18%'], ['IFC Global Infrastructure Fund, LP', '17%'], ['IFC Financial Institutions Growth Fund, LP', '30%'], ['IFC Global Emerging Markets Fund of Fundsc', '19%'], ['IFC Middle East and North Africa Fund, LP', '37%'], ['Women Entrepreneurs Debt Fund, LP', '26%'], ['IFC Emerging Asia Fund, LP', '22%'], ['a. By virtue of certain rights granted to non-IFC limited partner interests, IFC does not control or consolidate this fund.\nb. The ownership interest of 18% reflects IFC’s ownership interest taking into consideration the overall commitments for the IFC Catalyst\nFunds, which comprises IFC Catalyst Fund, LP, IFC Catalyst Fund (UK), LP and IFC Catalyst Fund (Japan), LP (collectively, IFC Catalyst\nFunds). IFC does not have an ownership interest in either the IFC Catalyst Fund (UK), LP or the IFC Catalyst Fund (Japan), LP.\nc. The ownership interest of 19% reflects IFC’s ownership interest taking into consideration the current committed amounts for the IFC\nGlobal Emerging Markets Fund of Funds, which comprises IFC Global Emerging Markets Fund of Funds, LP and IFC Global Emerging\nMarkets Fund of Funds, (Japan Parallel) LP. IFC does not have an ownership interest in the IFC Global Emerging Markets Fund of Funds,\n(Japan Parallel) LP.', None]]
+--------------------------------------------------
+
+Page 20
+Table 1:
+[['IFC Capitalization (Equity) Fund,\nLP (Equity Capitalization Fund)', '$ 1,275', '$ 775', '$ 500', '$ 1,214', '', '$ –', '$ –', '$ –', '$ –'], ['IFC Capitalization (Subordinated\nDebt) Fund, LP (Sub-Debt\nCapitalization Fund)', '1,725', '225', '1,500', '1,614', '', '–', '–', '–', '–'], ['IFC African, Latin American and\nCaribbean Fund, LP (ALAC Fund)', '1,000', '200', '800', '863', '', '–', '–', '–', '–'], ['IFC Catalyst Fund, LP, IFC\nCatalyst Fund (UK), LP and\nIFC Catalyst Fund (Japan), LP\n(collectively, Catalyst Funds)', '418', '75', '343', '361', '', '–', '7', '–', '8'], ['IFC Global Infrastructure Fund, LP\n(Global Infrastructure Fund)c', '1,430', '200', '1,230', '902', '', '–', '–', '–', '–'], ['IFC Global Emerging Markets\nFund of Funds, LP and IFC Global\nEmerging Markets Fund of Funds\n(Japan Parallel), LP (collectively,\nGEM Funds)', '800', '150', '650', '757', '', '–', '48', '–', '86'], ['Women Entrepreneurs Debt Fund,\nLP (WED Fund)', '115', '30', '85', '110', '', '–', '–', '–', '–'], ['IFC Middle East and North Africa\nFund, LP (MENA Fund)', '162', '60', '102', '86', '', '–', '–', '4', '8'], ['IFC Financial Institutions Growth\nFund, LP (FIG Fund)', '505', '150', '355', '354', '', '10', '10', '–', '3'], ['IFC Emerging Asia Fund, LP (Asia\nFund)', '693', '150', '543', '590', '', '17', '17', '16', '97'], ['Current Funds Total', '$ 8,123', '$ 2,015', '$ 6,108', '$6,851', '', '$ 27', '$ 82', '$ 20', '$202'], ['Former Funds', None, None, None, None, None, None, None, None, None], ['Africa Capitalization Fund, Ltd.\n(Africa Capitalization Fund)', '$ 182', '$ –', '$ 182', '$ 130', '', '$ –', '$ –', '$ –', '$ –'], ['China-Mexico Fund, LP (China-\nMexico Fund)d', '1,200', '–', '1,200', '362', '', '–', '–', '–', '10'], ['IFC Russian Bank Capitalization\nFund, LP (Russian Bank Cap Fund)', '550', '250', '300', '82', '', '–', '–', '–', '–'], ['Former Funds Total', '$ 1,932', '$ 250', '$ 1,682', '$ 574', '', '$ –', '$ –', '$ –', '$ 10'], ['Grand Total', '$ 10,055', '$ 2,265', '$ 7,790', '$ 7,425', '', '$ 27', '$82', '$ 20', '$212']]
+--------------------------------------------------
+
+Page 21
+Table 1:
+[['Upstream & Advisory\nServices\nFinancial\nCompanies Intermediaries Governments\nand Funds', None], ['Companies', 'Governments']]
+--------------------------------------------------
+
+Page 23
+Table 1:
+[['Africa', '$ 97', '$ 99', '', '36%', '38%'], ['East Asia and Pacific', '39', '34', '', '14%', '13%'], ['Latin America and the Caribbean', '36', '27', '', '13%', '10%'], ['South Asia', '27', '23', '', '10%', '9%'], ['Europe', '22', '21', '', '8%', '8%'], ['World', '22', '31', '', '8%', '12%'], ['Middle East', '15', '13', '', '6%', '5%'], ['Central Asia and Türkiye', '12', '12', '', '4%', '5%'], ['Total Program Expenditures', '$270', '$260', '', '100%', '100%'], ['a. The program expenditure presented herein is based on the Operational reporting methodology, which includes all project expenditures\nassociated with an Advisory project. This does not include program expenditure associated with IFC’s Upstream project development activities.', None, None, None, None, None]]
+--------------------------------------------------
+
+Page 23
+Table 2:
+[['Financial Institutions', '$ 62', '$ 70', '', '23%', '27%'], ['Country Advisory & Economics', '55', '55', '', '20%', '21%'], ['Transaction Advisory', '54', '43', '', '20%', '16%'], ['Manufacturing Agribusiness & Services', '35', '37', '', '13%', '14%'], ['Infrastructure & Natural Resources', '21', '17', '', '8%', '7%'], ['Environmental, Social & Governance', '11', '14', '', '4%', '6%'], ['Disruptive Technologies & Funds', '5', '5', '', '2%', '2%'], ['Other Advisory', '27', '19', '', '10%', '7%'], ['Total Program Expenditures', '$270', '$260', '', '100%', '100%']]
+--------------------------------------------------
+
+Page 24
+Table 1:
+[['FOR THE YEAR ENDED JUNE 30\n(US$ in millions) 2024', None, '2023', 'VARIANCE'], ['The Funded Liquidity Portfolio', '$ 20,878', '$ 23,188', '$ (2,310)'], ['The Net Worth Funded Portfolio', '16,856', '16,932', '(76)'], ['Total Liquid Asset Portfolio', '$ 37,734', '$40,120', '$ (2,386)']]
+--------------------------------------------------
+
+Page 25
+Table 1:
+[['AS OF THE YEAR ENDED JUNE 30\n(US$ in millions) 2024', None, '2023', 'VARIANCE'], ['Medium and long-term borrowings', '$ 53,447', '$49,476', '$ 3,971'], ['Short-term borrowings under the discount note program', '2,308', '2,967', '(659)'], ['Total outstanding borrowings', '$ 55,755', '$52,443', '$ 3,312']]
+--------------------------------------------------
+
+Page 25
+Table 2:
+[['52,443\n(9,635) (360) (659)', '', '']]
+--------------------------------------------------
+
+Page 26
+Table 1:
+[['Capital', '', ''], ['Authorized capital', '$ 25,080', '$ 25,080'], ['Subscribed capital', '24,104', '23,939'], ['Less: unpaid portion of subscriptions', '(884)', '(1,343)'], ['Paid-in capital', '23,220', '22,596'], ['Accumulated other comprehensive income', '957', '632'], ['Retained earnings', '13,295', '11,810'], ['Total Capital', '$ 37,472', '$ 35,038']]
+--------------------------------------------------
+
+Page 26
+Table 2:
+[['Undesignated Retained Earnings', '$ 13,133', '$ 11,589'], ['Designated Retained Earnings', '', ''], ['Creating Markets Advisory Window (CMAW)', '93', '161'], ['Funding Mechanism for Technical Assistance and Advisory Services', '58', '48'], ['Small and Medium Enterprise (SME) Ventures', '11', '12'], ['Total Designated Retained Earnings', '$ 162', '$ 221'], ['Total Retained Earnings', '$ 13,295', '$ 11,810']]
+--------------------------------------------------
+
+Page 31
+Table 1:
+[['IFC Managing Directora\nVP & General Counsel,\nVice President Vice President\nLegal, Institutional Risk,\nRisk & Finance Corporate Support\nand Governance', None], ['Vice President\nRisk & Finance', 'Vice President\nCorporate Support']]
+--------------------------------------------------
+
+Page 32
+Table 1:
+[['STRATEGIC AND\nBUSINESS RISK\nEEnnvvirioronnmmeenntta l Corporate\nStrategic\n& Social Governance\nRisk\nRRisiskks Risk\nIntegrity, External\nClimate\nML/TF & Tax Financing\nRisk\nRisk Risk', None], ['Integrity,\nML/TF & Tax\nRisk', 'External\nFinancing\nRisk']]
+--------------------------------------------------
+
+Page 32
+Table 2:
+[[None, 'OPERATIONAL\nRISK', None, None, None, None, None], ['Business\nContinuity', '', 'Data\nManagement', None, '', 'Technology Fraud', None], ['Business\nContinuity', None, None, 'Data\nManagement', None, None, 'Fraud'], [None, '', '', None, None, None, None], ['Physical\nSecurity and\nSafety', '', 'People', None, '', 'Process\nModel\nExecution', None], ['Physical\nSecurity and\nSafety', None, None, 'People', None, None, 'Model'], [None, '', '', None, None, None, None], ['Reporting', '', None, None, '', 'Vendors Other', None], ['Reporting', None, None, 'Legal,\nRegulatory and\nCompliance', None, None, 'Other']]
+--------------------------------------------------
+
+Page 33
+Table 1:
+[['NPLs as % of the debt portfolio', '1.8%', '2.7%', '(0.9)%'], ['Principal amount outstanding on NPLs', '$ 898', '$ 1,124', '$ (226)'], ['Total reserve against losses on loans', '$ 1,081', '$ 1,209', '$ (128)'], ['Total reserve against losses on loans as % of disbursed\nloan portfolio', '2.9%', '3.7%', '(0.8)%'], ['Total reserve against losses on loans as % of NPLs', '120.4%', '107.6%', '12.8%'], ['Total reserve against losses on outstanding guarantees', '$ 19', '$ 15', '$ 4']]
+--------------------------------------------------
+
+Page 34
+Table 1:
+[['', '5.48%', '$1,493\n$1,329\n4.43% $1,124\n3.85%\n$898\n2.66%\n1.84%']]
+--------------------------------------------------
+
+Page 38
+Table 1:
+[['FY20', '', '4%\n2%\n3%'], ['', '', None], [None, '8', None], [None, '1', None], ['', None, None], ['FY21', None, None], ['', '', '4%\n3%\n2%\n1%'], ['', '8', None], [None, '1', None], ['', '', None], ['FY22', None, None], ['', None, None]]
+--------------------------------------------------
+
+Page 38
+Table 2:
+[['', None, '8', '4%\n1%\n1%'], ['', None, '1', None], ['', None, '', None], ['FY23', None, '', None], ['', None, '3%\n86%', None], ['', None, None, None], ['', None, '1', '0%\n1%\n3%'], ['', None, '', None], ['FY24', None, '', None], ['', None, '', None], ['', None, '86%', None], ['', '10%', None, None]]
+--------------------------------------------------
+
+Page 43
+Table 1:
+[['Net income:', ''], ['Yield on interest earning assets\n(principally loans)', 'Market conditions including spread levels and degree of competition.\nNonaccruals and recoveries of interest on loans formerly in nonaccrual status,\nand income from participation notes on individual loans are also included in\nincome from loans.'], ['Liquid asset income', 'Realized and unrealized gains and losses on the liquid asset portfolio, in\nparticular the portion of the liquid asset portfolio funded by net worth, which\nare driven by external factors such as the interest rate environment and liquidity\nof certain asset classes within the liquid asset portfolio.'], ['Income from the equity investment\nportfolio', 'Global climate for emerging markets equities, fluctuations in currency\nmarkets and company-specific performance for equity investments. Overall\nperformance of the equity portfolio.'], ['Provision for losses on loans,\nguarantees, and available-for-sale\ndebt securities', 'Risk assessment of borrowers, probability of default, loss given default,\nand expected balance at default considering prepayment and disbursement\nassumption used to estimate expected utilization rates.'], ['Other income and expenses', 'Level of advisory services provided by IFC to its clients, the level of expense\nfrom the staff retirement and other benefits plans, the approved and actual\nadministrative expenses, and other budget resources.'], ['Gains and losses on other non-trading\nfinancial instruments accounted for\nat fair value', 'Principally, differences between changes in fair values of borrowings, excluding\nIFC’s credit spread and associated derivative instruments and unrealized gains\nor losses associated with the investment portfolio including puts, warrants, and\nstock options, which in part are dependent on the global climate for emerging\nmarkets. These securities may be valued using internally developed models or\nmethodologies, utilizing inputs that may be observable or non-observable.'], ['Other comprehensive income:', ''], ['Unrealized gains and losses on\ndebt securities accounted for as\navailable-for-sale', 'Global climate for emerging markets, fluctuations in currency and commodity\nmarkets and company-specific performance, and consideration of the extent\nto which unrealized losses are considered a credit loss. Debt securities may be\nvalued using internally developed models or methodologies, utilizing inputs that\nmay be observable or non-observable.'], ['Unrealized gains and losses\nattributable to instrument-specific\ncredit risk on borrowings at fair value\nunder the Fair Value Option', 'Fluctuations in IFC’s own credit spread measured against reference rate,\nresulting from changes over time in market pricing of credit risk. As credit\nspreads widen, unrealized gains are recorded, and when credit spreads narrow,\nunrealized losses are recorded.'], ['Unrecognized net actuarial gains and\nlosses and unrecognized prior service\ncosts on benefit plans', 'Returns on pension plan assets and the key assumptions that underlay\nprojected benefit obligations, including financial market interest rates, staff\nexpenses, past experience, and management’s best estimate of future benefit\ncost changes and economic conditions.']]
+--------------------------------------------------
+
+Page 44
+Table 1:
+[['FY22 (464)', '', '', None, None], ['FY23', None, '', '672', None], ['FY24', None, '672', None, '1,485']]
+--------------------------------------------------
+
+Page 44
+Table 2:
+[['(90) (4)\n48\n8 7\n298\n(97)', '', '']]
+--------------------------------------------------
+
+Page 45
+Table 1:
+[['', '', '61 898\n(275)\n(110)']]
+--------------------------------------------------
+
+Page 45
+Table 2:
+[['Portfolio (release of provision) provision on disbursed loans', '$ (26)', '$ 91', '$ (117)'], ['Individual provision (release of provision) on disbursed loans', '5', '(76)', '81'], ['Portfolio provision (release of provision) on undisbursed loans', '20', '(3)', '23'], ['Release of individual provision on undisbursed loans', '\xad(1)', '–', '\xad(1)'], ['Provision on off-balance sheet credit exposures and other receivables', '11', '10', '1'], ['Individual provision on available-for-sale debt securities', '12', '7', '5'], ['Total', '$ 21', '$ 29', '$ (8)']]
+--------------------------------------------------
+
+Page 45
+Table 3:
+[['', '', '(6)\n1,269\n(91)\n(17)']]
+--------------------------------------------------
+
+Page 46
+Table 1:
+[['Reserve against losses on disbursed loans', '', '', '', '', '', ''], ['Portfolio reserve', '$\x08 801', '2.3%', '$ \x08 843', '2.8%', '$\x08 (42)', '(0.5)%'], ['Individual reserve', '280', '25.3%', '366', '30.2%', '(86)', '(4.9)%'], ['', '$\x08 1,081', '3.0%', '$\x08 1,209', '3.9%', '(128)', '(0.9)%'], ['Reserve against losses on loans committed\nbut not disbursed', '', '', '', '', '', ''], ['Portfolio reserve', '188', '2.2%', '169', '2.5%', '19', '(0.3)%'], ['Individual reserve', '–', '–', '1', '2.2%', '(1)', '(2.2)%'], ['', '188', '2.2%', '170', '2.5%', '18', '(0.3)%'], ['Total reserve', '$\x08 1,269', '2.8%', '$\x08 1,379', '3.6%', '$\x08 (110)', '(0.8)%']]
+--------------------------------------------------
+
+Page 46
+Table 2:
+[['Net realized gains', '$ 245', '$ 161', '$ 84'], ['Net unrealized losses', '(231)', '(134)', '(97)'], ['Dividend income, custody, fees and other', '128', '164', '(36)'], ['Total income from equity investments and associated derivatives', '$ 142', '$ 191', '$ (49)']]
+--------------------------------------------------
+
+Page 47
+Table 1:
+[['Liquid asset income, gross of funding costs:', '', '', ''], ['Market Funded Liquidity Portfolio', '$ 1,341', '$ 1,215', '$ 126'], ['Net Worth Funded Liquidity Portfolio', '1,050', '249', '801'], ['Total liquid asset income, gross of funding costs', '$ 2,391', '$ 1,464', '$ 927'], ['Liquid asset income, net of funding costs:', '', '', ''], ['Market Funded Liquidity Portfolio', '$ 106', '$ 208', '$ (102)'], ['Net Worth Funded Liquidity Portfolio', '754', '33', '721'], ['Total liquid asset income, net of funding costs', '$ 860', '$ 241', '$ 619']]
+--------------------------------------------------
+
+Page 47
+Table 2:
+[['Upstream and Advisory Services Income', '$ 268', '$ 247', '$ 21'], ['Service Fees', '131', '128', '3'], ['Investment returns on Post-Employment Benefit Plan assets', '63', '55', '8'], ['PCRF Income', '30', '15', '15'], ['CRM Income/ Expense', '25', '18', '7'], ['Other Miscellaneous Income', '70', '55', '15'], ['Total', '$ 587', '$ 518', '$ 69']]
+--------------------------------------------------
+
+Page 48
+Table 1:
+[['Administrative expenses', '$ 1,516', '$ 1,430', '$ 86'], ['Upstream and Advisory services expenses', '339', '317', '22'], ['Income from pension and other postretirement benefit plans', '(37)', '(41)', '4'], ['Other Expenses', '9', '15', '(6)'], ['Total', '$ 1,827', '$ 1,721', '$ 106']]
+--------------------------------------------------
+
+Page 48
+Table 2:
+[['Reported in Net Income', '$ (115)', '$ (86)', '$ (29)'], ['Reported in Other Comprehensive Income, net of reclassifications to\nnet income upon sale or repayment', '100', '111', '(11)'], ['Total', '$ (15)', '$ 25', '$ (40)']]
+--------------------------------------------------
+
+Page 49
+Table 1:
+[['Unrealized gains (losses) on the loan and debt securities\nportfolio carried at fair value', '$ 280', '$ (46)'], ['Unrealized (losses) gains on associated derivatives', '(98)', '221'], ['Unrealized gains on loans, debt securities and associated derivatives', '182', '175'], ['Unrealized (losses) gains on borrowings from market and IDA', '(627)', '270'], ['Unrealized gains (losses) on associated derivatives', '573', '(320)'], ['Unrealized losses on borrowings from market, IDA and associated derivatives', '(54)', '(50)'], ['Net unrealized gains on non-trading financial instruments accounted for at fair value', '$ 128', '$ 125']]
+--------------------------------------------------
+
+Page 50
+Table 1:
+[['Net unrealized gains and losses on debt securities arising during the period:', '', ''], ['Unrealized gains', '$ 151', '$ 275'], ['Unrealized losses', '(41)', '(155)'], ['Reclassification adjustment for realized gains and credit-related portion of\nimpairments that were recognized in net income', '11', '(58)'], ['Net unrealized gains on debt securities', '$ 121', '$ 62'], ['Net unrealized gains and losses attributable to instrument-specific credit\nrisk on borrowings at fair value under the Fair Value Option:', '', ''], ['Unrealized gains', '$ 439', '$ 474'], ['Unrealized losses', '(377)', '(536)'], ['Reclassification adjustment for realized gains included in net income upon\nderecognition of borrowings', '12', '12'], ['Net unrealized gains (losses) on borrowings', '$ 74', '$ (50)'], ['Total unrealized gains on debt securities and borrowings', '$ 195', '$ 12']]
+--------------------------------------------------
+
+Page 51
+Table 1:
+[['President', 'Ajay Banga'], ['Managing Director', 'Makhtar Diop'], ['Regional Vice President, Africa', 'Sérgio Pimenta'], ['Regional Vice President, Europe, Latin America and the Caribbean', 'Alfonso García Mora'], ['Regional Vice President, Middle East, Central Asia, Türkiye, Afghanistan and Pakistan', 'Hela Cheikhrouhou'], ['Regional Vice President, Asia and the Pacific', 'Riccardo Puliti'], ['Vice President, Cross-Cutting Solutions', 'Emmanuel Nyirinkindi'], ['Vice President, Corporate Support', 'Elena Bourganskaia'], ['Vice President, Economics and Private Sector Development', 'Susan M. Lund'], ['Vice President and General Counsel, Legal, Institutional Risk, and Governance', 'Ramit Nagpal'], ['Vice President, Industries', 'Mohamed Gouled'], ['Vice President, Risk and Finance', 'Federico Galizia'], ['Vice President, Treasury & Mobilization', 'John Gandolfo']]
+--------------------------------------------------
+
+Page 51
+Table 2:
+[['BOAR\nDIREC', 'D OF\nTORS']]
+--------------------------------------------------
+
+Page 55
+Table 1:
+[['ABS', 'Asset-Backed Securities'], ['AIMM', 'Anticipated Impact Measurement\nand Monitoring'], ['ALM', 'Asset Liability Management'], ['AML/CFT', 'Anti-Money Laundering/\nCombating the Financing\nof Terrorism'], ['AOCI', 'Accumulated Other\nComprehensive Income'], ['BFC', 'Blended Finance and Donor Funds\nCommittee'], ['BOP', 'Base of the Pyramid'], ['CAO', 'Compliance Advisory/Ombudsman'], ['CBR', 'Business Risk and Compliance\nDepartment'], ['CECL', 'Current Expected Credit Loss'], ['CEG', 'Sustainability and Gender Solutions\nDepartment'], ['CES', 'Environmental and Social Policy\nand Risk Department'], ['CMAW', 'Creating Markets Advisory Window'], ['COSO', 'Committee of Sponsoring\nOrganizations of the Treadway\nCommission'], ['CR', 'Credit Rating'], ['CRC', 'Corporate Risk Committee'], ['CRM', 'Client Risk Management'], ['CRWG', 'Climate Risk Working Group'], ['CSO', 'Department of Special Operations'], ['CUR', 'Capital Utilization Ratio'], ['DARP', 'Distressed Asset Recovery Program'], ['DFIs', 'Development Financial Institutions'], ['E&S', 'Environmental and Social'], ['EIJ', 'Ethics and Internal Justice'], ['ERM', 'Enterprise Risk Management\nFramework'], ['ESG', 'Environmental, Social\n& Governance'], ['ESRR', 'E&S Risk Rating'], ['FCA', 'Financial Conduct Authority'], ['FCS', 'Fragile and Conflict-Affected\nSituations'], ['FMTAAS', 'Funding Mechanism for Technical\nAssistance and Advisory Services']]
+--------------------------------------------------
+
+Page 55
+Table 2:
+[['GCI', 'General Capital Increase'], ['GEI', 'Gender and Economic Inclusion'], ['GEMs', 'Global Emerging Markets (GEMs)'], ['GP', 'General Partner'], ['GTFP', 'Global Trade Finance Program'], ['GTLP', 'Global Trade Liquidity Program'], ['GTSF', 'Global Trade Supplier Program'], ['GTST', 'General Structured Trade\nFinance Program'], ['IBRD', 'International Bank for\nReconstruction and Development'], ['ICSID', 'International Centre for\nSettlement of Investment Disputes'], ['IDA', 'International Development\nAssociation'], ['IDA-PSW', 'IDA Private Sector Window'], ['IEG', 'Independent Evaluation Group'], ['IFC or the\nCorporation', 'International Finance Corporation'], ['IFIs', 'International Financial Institutions'], ['INT', 'Integrity Vice Presidency'], ['ITSG', 'Information and Technology\nSteering Group'], ['LCR', 'Liquidity Coverage Ratios'], ['LIBOR', 'London Interbank Offered Rate'], ['LTF', 'Long-Term Finance'], ['MBS', 'Mortgage-Backed Securities'], ['MCPP', 'Managed Co-Lending\nPortfolio Program'], ['MDBs', 'Multilateral Development Banks'], ['MD', 'Managing Director'], ['MD&A', 'Management’s Discussion and\nAnalysis'], ['MIGA', 'Multilateral Investment Guarantee\nAgency'], ['ML/TF', 'Money Laundering And\nTerrorist Financing'], ['MT', 'IFC’s Management Team'], ['NAV', 'Net Asset Value'], ['NPLs', 'Non-performing Loans'], ['OCI', 'Other Comprehensive Income'], ['ORM', 'IFC’s Operational Risk\nManagement']]
+--------------------------------------------------
+
+Page 56
+Table 1:
+[['PBAC', 'Pension Benefits Administration\nCommittee'], ['PCRF', 'Post-retirement Contributions\nReserve Fund'], ['PEBP', 'Post-Employment Benefit Plan'], ['PFC', 'Pension Finance Committee'], ['PPP', 'Public-Private Partnership'], ['PRI', 'Political Risk Insurance'], ['PSW', 'Private Sector Window'], ['RA', 'Risk Appetite'], ['RCSA', 'Risk and Control Self-Assessments'], ['RIs', 'Risk Indicators'], ['RSBP', 'Retired Staff Benefits Plan'], ['SCI', 'Selective Capital Increase'], ['SLAs', 'Service Level Agreements'], ['SMEs', 'Small and Medium Enterprises'], ['SOFR', 'Secured Overnight Financing Rate'], ['SRP', 'Staff Retirement Plan'], ['STF', 'Short-Term Finance'], ['T3PC', 'Tier III Project Committee'], ['VPU', 'Vice Presidency Unit']]
+--------------------------------------------------
+
+Page 70
+Table 1:
+[['Libya ..................................................... 419 0.00 7,755 0.03', '', 'Saudi Arabia.................................', '583,805 2.51 591,141 2.40'], ['Lithuania............................................... 22,912 0.10 30,248 0.12', '', 'Senegal.........................................', '17,986 0.08 25,322 0.10'], ['Luxembourg......................................... 23,835 0.10 31,171 0.13', '', 'Serbia............................................', '19,760 0.09 27,096 0.11'], ['Madagascar......................................... 6,834 0.03 14,170 0.06', '', 'Seychelles....................................', '206 0.00 7,542 0.03'], ['Malawi .................................................. 13,892 0.06 21,228 0.09', '', 'Sierra Leone ................................', '2,730 0.01 10,066 0.04'], ['Malaysia............................................... 126,614 0.55 133,950 0.54', '', 'Singapore.....................................', '8,789 0.04 16,125 0.07'], ['Maldives............................................... 709 0.00 8,045 0.03', '', 'Slovak Republic...........................', '46,629 0.20 53,965 0.22'], ['Mali........................................................ 5,274 0.02 12,610 0.05', '', 'Slovenia........................................', '16,896 0.07 24,232 0.10'], ['Malta..................................................... 15,807 0.07 23,143 0.09', '', 'Solomon Islands..........................', '282 0.00 7,618 0.03'], ['Marshall Islands.................................. 5,055 0.02 12,391 0.05', '', 'Somalia.........................................', '633 0.00 7,969 0.03'], ['Mauritania ............................................ 1,632 0.01 8,968 0.04', '', 'South Africa..................................', '132,805 0.57 140,141 0.57'], ['Mauritius............................................... 17,482 0.08 24,818 0.10', '', 'South Sudan................................', '14,334 0.06 21,670 0.09'], ['Mexico .................................................. 232,794 1.00 240,130 0.98', '', 'Spain.............................................', '401,622 1.73 408,958 1.66'], ['Micronesia, Federated States of ...... 5,673 0.02 13,009 0.05', '', 'Sri Lanka ......................................', '65,217 0.28 72,553 0.30'], ['Moldova................................................ 10,068 0.04 17,404 0.07', '', 'St. Kitts and Nevis.......................', '4,864 0.02 12,200 0.05'], ['Mongolia............................................... 1,769 0.01 9,105 0.04', '', 'St. Lucia........................................', '564 0.00 7,900 0.03'], ['Montenegro.......................................... 9,010 0.04 16,346 0.07', '', 'Sudan............................................', '846 0.00 8,182 0.03'], ['Morocco................................................ 90,135 0.39 97,471 0.40', '', 'Suriname......................................', '4,727 0.02 12,063 0.05'], ['Mozambique........................................ 2,455 0.01 9,791 0.04', '', 'Sweden.........................................', '244,918 1.05 252,254 1.03'], ['Myanmar .............................................. 5,078 0.02 12,414 0.05', '', 'Switzerland...................................', '431,268 1.86 438,604 1.78'], ['Namibia ................................................ 3,080 0.01 10,416 0.04', '', 'Syrian Arab Republic..................', '1,479 0.01 8,815 0.04'], ['Nepal .................................................... 6,267 0.03 13,603 0.06', '', 'Tajikistan.......................................', '10,429 0.04 17,765 0.07'], ['Netherlands ......................................... 518,561 2.23 525,897 2.14', '', 'Tanzania.......................................', '8,923 0.04 16,259 0.07'], ['New Zealand ....................................... 47,437 0.20 54,773 0.22', '', 'Thailand........................................', '129,382 0.56 136,718 0.56'], ['Nicaragua............................................. 7,508 0.03 14,844 0.06', '', 'Timor-Leste..................................', '6,667 0.03 14,003 0.06'], ['Niger ..................................................... 1,121 0.00 8,457 0.03', '', 'Togo...............................................', '6,161 0.03 13,497 0.05'], ['Nigeria .................................................. 270,840 1.17 278,176 1.13', '', 'Tonga ............................................', '1,226 0.01 8,562 0.03'], ['North Macedonia ................................ 5,932 0.03 13,268 0.05', '', 'Trinidad and Tobago...................', '31,352 0.14 38,688 0.16'], ['Norway ................................................. 165,868 0.71 173,204 0.70', '', 'Tunisia ..........................................', '33,486 0.14 40,822 0.17'], ['Oman.................................................... 11,002 0.05 18,338 0.07', '', 'Türkiye..........................................', '167,498 0.72 174,834 0.71'], ['Pakistan................................................ 183,167 0.79 190,503 0.77', '', 'Turkmenistan...............................', '6,176 0.03 13,512 0.05'], ['Palau..................................................... 191 0.00 7,527 0.03', '', 'Tuvalu ...........................................', '520 0.00 7,856 0.03'], ['Panama................................................ 9,856 0.04 17,192 0.07', '', 'Uganda.........................................', '5,604 0.02 12,940 0.05'], ['Papua New Guinea ............................ 8,745 0.04 16,081 0.07', '', 'Ukraine .........................................', '77,458 0.33 84,794 0.34'], ['Paraguay.............................................. 3,324 0.01 10,660 0.04', '', 'United Arab Emirates .................', '30,750 0.13 38,086 0.15'], ['Peru ...................................................... 83,589 0.36 90,925 0.37', '', 'United Kingdom...........................', '1,132,088 4.88 1,139,424 4.63'], ['Philippines............................................ 121,863 0.52 129,199 0.53', '', 'United States...............................', '4,341,278 18.70 4,348,614 17.69'], ['Poland .................................................. 74,893 0.32 82,229 0.33', '', 'Uruguay........................................', '28,970 0.12 36,306 0.15'], ['Portugal................................................ 63,467 0.27 70,803 0.29', '', 'Uzbekistan ...................................', '39,115 0.17 46,451 0.19'], ['Qatar..................................................... 12,581 0.05 19,917 0.08', '', 'Vanuatu.........................................', '419 0.00 7,755 0.03'], ['Romania............................................... 48,335 0.21 55,671 0.23', '', 'Venezuela, Republica\nBolivariana de ...........................', '210,347 0.91 217,683 0.89'], ['Russian Federation ............................ 784,211 3.38 791,547 3.22', '', 'Viet Nam.......................................', '3,401 0.01 10,737 0.04'], ['Rwanda ................................................ 2,333 0.01 9,669 0.04', '', 'Yemen, Republic of.....................', '5,452 0.02 12,788 0.05'], ['Samoa .................................................. 1,180 0.01 8,516 0.03', '', 'Zambia..........................................', '15,953 0.07 23,289 0.09'], ['Sao Tome and Principe...................... 3,347 0.01 10,683 0.04', 'Zimbabwe..................................... 24,513 0.11 31,849 0.13', None, None], ['* May differ from the sum of individual percentages shown because of rounding', 'Total June 30, 2024 23,220,348 100.00* 24,584,844 100.00*', None, None], ['', 'Total June 30, 2023 22,595,632 100.00* 23,923,300 100.00*', None, None]]
+--------------------------------------------------
+
+Page 81
+Table 1:
+[['Services and Support (Payables) Receivables $ (1)', '$ —', '$ 5 $ 4 $ (35) $ — $ 4 $ (31)'], ['IDA PSW – Local Currency Facility —', '94', '— 94 — 50 a — 50'], ['IDA PSW – Blended Finance Facility —', '(106)', '— (106) — (93) — (93)'], ['Borrowings —', '(170)', '— (170) — (243) — (243)'], ['Pension and Other Post-retirement Benefits 774', '—', '— 774 704 — — 704'], ['Post-retirement Contribution Reserve Fund 344', '—', '— 344 385 — — 385'], ['$ 1,117', '$ (182)', '$ 5 $ 940 $ 1,054 $ (286) $ 4 $ 772']]
+--------------------------------------------------
+
+Page 88
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 88\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nReserve against losses on loans and provision for losses on loans\nThe reserve against losses as of June 30, 2024 reflected credit risk assessments as of that date. The assessment of the level of\nreserve against losses carried a heightened degree of uncertainty and judgment. As of June 30, 2024, a $25 million qualitative overlay\nfor reserve against losses on loans and guarantees was applied ($135 million as of June 30, 2023), a reduction of $110 million in the\nyear ended June 30, 2024 since the circumstances requiring the overlay are now broadly reflected in the credit ratings and reserve.\nChanges in the reserve against losses on loans disbursed and loans committed but not disbursed for the years ended June 30, 2024,\nJune 30, 2023 and June 30, 2022 as well as the related loans at amortized cost evaluated for impairment individually (individual\nreserve) and on a pool basis (portfolio reserve) are summarized below:\nFor the year ended June 30, 2024\nLoans Committed but not\nLoans Disbursed Disbursed\nIndividual Portfolio Total Individual Portfolio Total\n(US$ in millions) reserve reserve reserve reserve reserve reserve\nBeginning balance $ 366 $ 843 $ 1,209 $ 1 $ 169 $ 170\nProvision (release of provision) for losses 5 (26) (21) (1) 20 19\nWrite-offs (95) — (95) — — —\nRecoveries of previously written-off loans 4 — 4 — — —\nForeign currency transaction adjustments (1) (10) (11) — (1) (1)\nOther adjustments a 1 (6) (5) — — —\nEnding balance $ 280 $ 801 $ 1,081 $ — $ 188 $ 188\nTotal disbursed loans at June 30, 2024 $ 1,106 $ 34,769 $ 35,875\nLoans committed but not disbursed at June 30, 2024 $ 49 $ 8,678 $ 8,727\nUnamortized deferred loan origination fees, net and other (146)\nLoans at amortized cost $ 35,729\n___________\na Other adjustments comprise reserve against capitalized interest.\nFor the year ended June 30, 2023\nLoans Committed but not\nLoans Disbursed Disbursed\nIndividual Portfolio Total Individual Portfolio Total\n(US$ in millions) reserve reserve reserve reserve reserve reserve\nBeginning balance $ 461 $ 748 $ 1,209 $ 1 $ 171 $ 172\n(Release of provision) provision for losses (76) 91 15 — (3) (3)\nWrite-offs (37) — (37) — — —\nRecoveries of previously written-off loans 18 — 18 — — —\nForeign currency transaction adjustments (1) 6 5 — 1 1\nOther adjustments a 1 (2) (1) — — —\nEnding balance $ 366 $ 843 $ 1,209 $ 1 $ 169 $ 170\nTotal disbursed loans at Jun 30, 2023 $ 1,212 $ 30,032 $ 31,244\nLoans committed but not disbursed at June 30, 2023 $ 46 $ 6,796 $ 6,842\nUnamortized deferred loan origination fees, net and other $ (127)\nLoans at amortized cost $ 31,117\n___________\na Other adjustments comprise reserve against interest capitalized.\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 88']]
+--------------------------------------------------
+
+Page 90
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 90\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nNonaccruing loans\nLoans on which the accrual of interest has been discontinued amounted to $845 million as of June 30, 2024 ($1.1 billion as of June 30,\n2023). The interest income on such loans for the years ended June 30, 2024, June 30, 2023 and June 30, 2022 is summarized as\nfollows:\nFor the year ended June 30,\n(US$ in millions) 2024 2023 2022\nInterest income not recognized on nonaccruing loans $ 103 $ 139 $ 92\nInterest income recognized on loans in nonaccrual status related to current and\nprior years, on cash basis 44 78 65\nThere were no loans in nonaccrual status without an individual reserve against losses as of June 30, 2024 and June 30, 2023.\nThe amortized cost of nonaccruing loans as of June 30, 2024 and June 30, 2023 is summarized by geographic region and industry\nsector as follows:\nJune 30, 2024\nTotal non-\nManufacturing, Infrastructure Disruptive accruing loans\nagribusiness Financial and natural technologies at amortized\n(US$ in millions) and services markets resources and funds cost a\nAfrica $ 128 $ — $ 159 $ 9 $ 296\nAsia and Pacific 50 5 6 1 62\nLatin America and the Caribbean, and Europe 186 15 114 6 321\nMiddle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan 87 39 93 — 219\nTotal disbursed loans b $ 451 $ 59 $ 372 $ 16 $ 898\nJune 30, 2023\nTotal non-\nManufacturing, Infrastructure Disruptive accruing loans\nagribusiness Financial and natural technologies at amortized\n(US$ in millions) and services markets resources and funds cost a\nAfrica $ 196 $ — $ 161 $ 5 $ 362\nAsia and Pacific 118 7 19 — 144\nLatin America and the Caribbean, and Europe 159 12 151 1 323\nMiddle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan 91 74 130 — 295\nTotal disbursed loans b $ 564 $ 93 $ 461 $ 6 $ 1,124\n_________\na Includes all components of amortized cost except unamortized fees. The related unamortized fees are considered insignificant.\nb Includes $53 million reported as debt securities and $126 million reported as loans under Fair Value Option on the Balance Sheets as of June 30, 2024 ($59 million Debt\nsecurities and $137 million Fair Value Option loans as of June 30, 2023).\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 90']]
+--------------------------------------------------
+
+Page 91
+Table 1:
+[['Africa', None], ['Manufacturing, agribusiness and services $ 1,870 $ 278 $ — $ — $ 49 $ 2,197', None], ['Financial markets 3,214 365 — — — 3,579', None], ['Infrastructure and natural resources 1,821 82 — — 91 1,994', None], ['Disruptive technologies and funds — — — — 4 4', None], ['Total Africa 6,905 725 — — 144 7,774', None], ['Asia and Pacific', None], ['Manufacturing, agribusiness and services 2,801 121 — — 20 2,942', None], ['Financial markets 5,395 1 — — 4 5,400', None], ['Infrastructure and natural resources 1,525 18 48 — — 1,591', None], ['Total Asia and Pacific 9,721 140 48 — 24 9,933', None], ['Latin America and the Caribbean, and Europe', None], ['Manufacturing, agribusiness and services 4,823 12 — 25 79 4,939', None], ['Financial markets 4,567 64 — — 8 4,639', None], ['Infrastructure and natural resources 2,252 14 15 — 21 2,302', None], ['Disruptive technologies and funds 17 — — — — 17', None], ['Total Latin America and the Caribbean, and Europe 11,659 90 15 25 108 11,897', None], ['Middle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan', None], ['Manufacturing, agribusiness and services 1,768 87 — — 11 1,866', None], ['Financial markets 1,010 236 — — 20 1,266', None], ['Infrastructure and natural resources 1,074 161 — — 30 1,265', None], ['Total Middle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan 3,852 484 — — 61 4,397', None], ['Other', None], ['Manufacturing, agribusiness and services 488 2 — — — 490', None], ['Financial markets 1,201 — — — — 1,201', None], ['Infrastructure and natural resources 183 — — — — 183', None], ['Total Other 1,872 2 — — — 1,874', None], ['Total disbursed loans $ 34,009 $ 1,441 $ 63 $ 25 $ 337 $ 35,875', None], ['Unamortized deferred loan origination fees, net and other', '(146)'], ['Loans at amortized cost $ 35,729', None]]
+--------------------------------------------------
+
+Page 92
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 92\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nJune 30, 2023\nGreater\nthan 90\n1-30 Days 31-60 days 61-90 days days past\n(US$ in millions) Current past due past due past due due Total loans\nAfrica\nManufacturing, agribusiness and services $ 1,905 $ 13 $ — $ 10 $ 90 $ 2,018\nFinancial markets 2,731 5 — 1 — 2,737\nInfrastructure and natural resources 1,706 4 — — 109 1,819\nDisruptive technologies and funds — — — — 4 4\nTotal Africa 6,342 22 — 11 203 6,578\nAsia and Pacific\nManufacturing, agribusiness and services 3,022 66 — — 18 3,106\nFinancial markets 4,553 — — — 5 4,558\nInfrastructure and natural resources 1,706 — — — 6 1,712\nTotal Asia and Pacific 9,281 66 — — 29 9,376\nLatin America and the Caribbean, and Europe\nManufacturing, agribusiness and services 3,736 — 25 — 94 3,855\nFinancial markets 3,987 — — — 6 3,993\nInfrastructure and natural resources 1,749 — — — 26 1,775\nTotal Latin America and the Caribbean, and\nEurope 9,472 — 25 — 126 9,623\nMiddle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan\nManufacturing, agribusiness and services 1,222 64 — — 12 1,298\nFinancial markets 1,019 — — 23 33 1,075\nInfrastructure and natural resources 1,274 31 — — — 1,305\nTotal Middle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan 3,515 95 — 23 45 3,678\nOther\nManufacturing, agribusiness and services 450 5 — — — 455\nFinancial markets 1,534 — — — — 1,534\nTotal Other 1,984 5 — — — 1,989\nTotal disbursed loans $ 30,594 $ 188 $ 25 $ 34 $ 403 $ 31,244\nUnamortized deferred loan origination fees, net and other (127)\nLoans at amortized cost $ 31,117\nCertain loans that are 90 days or more past due continue to accrue interest as management anticipates the collection of interest will\noccur in the near future. Amortized cost of these loans amounted to $2 million as of June 30, 2024 ($9 million as of June 30, 2023).\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 92']]
+--------------------------------------------------
+
+Page 92
+Table 2:
+[['(US$ in millions)', None], ['Africa', None], ['Manufacturing, agribusiness and services $ 1,905 $ 13 $ — $ 10 $ 90 $ 2,018', None], ['Financial markets 2,731 5 — 1 — 2,737', None], ['Infrastructure and natural resources 1,706 4 — — 109 1,819', None], ['Disruptive technologies and funds — — — — 4 4', None], ['Total Africa 6,342 22 — 11 203 6,578', None], ['Asia and Pacific', None], ['Manufacturing, agribusiness and services 3,022 66 — — 18 3,106', None], ['Financial markets 4,553 — — — 5 4,558', None], ['Infrastructure and natural resources 1,706 — — — 6 1,712', None], ['Total Asia and Pacific 9,281 66 — — 29 9,376', None], ['Latin America and the Caribbean, and Europe', None], ['Manufacturing, agribusiness and services 3,736 — 25 — 94 3,855', None], ['Financial markets 3,987 — — — 6 3,993', None], ['Infrastructure and natural resources 1,749 — — — 26 1,775', None], ['Total Latin America and the Caribbean, and\nEurope 9,472 — 25 — 126 9,623', None], ['Middle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan', None], ['Manufacturing, agribusiness and services 1,222 64 — — 12 1,298', None], ['Financial markets 1,019 — — 23 33 1,075', None], ['Infrastructure and natural resources 1,274 31 — — — 1,305', None], ['Total Middle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan 3,515 95 — 23 45 3,678', None], ['Other', None], ['Manufacturing, agribusiness and services 450 5 — — — 455', None], ['Financial markets 1,534 — — — — 1,534', None], ['Total Other 1,984 5 — — — 1,989', None], ['Total disbursed loans $ 30,594 $ 188 $ 25 $ 34 $ 403 $ 31,244', None], ['Unamortized deferred loan origination fees, net and other', '(127)'], ['Loans at amortized cost $ 31,117', None]]
+--------------------------------------------------
+
+Page 93
+Table 1:
+[['Credit Risk\nRating', 'Indicative\nExternal\nRating', 'Category', 'Description'], ['CR-1', 'AAA, AA+,\nAA, AA-', 'Very Strong', "An obligor rated CR-1 is the highest rating assigned by IFC. The obligor's ability to meet\nits financial obligations is very strong."], ['CR-2', 'A+, A, A-', 'Strong', "An obligor rated CR-2 is slightly more susceptible to the negative effects of changes in\ncircumstances and economic conditions than obligors rated CR-1. The obligor's ability\nto meet its financial obligations remains strong."], ['CR-3', 'BBB+', '', 'An obligor rated CR-3 exhibits an adequate financial profile, even though at a weaker\nlevel than "CR-1" and "CR-2".'], ['CR-4', 'BBB', 'Adequate', 'An obligor rated CR-4 exhibits an adequate financial profile. However, adverse\neconomic conditions or changing circumstances are more likely to lead to a\ndeterioration of the obligor’s ability to meet its financial obligations.'], ['CR-5', 'BBB-', '', 'An obligor rated CR-5, as the lowest of the investment grade ratings, exhibits an\nadequate financial profile. However, adverse economic conditions and/or changing\ncircumstances are more likely to lead to a weaker financial profile and a deterioration of\nthe obligor’s ability to meet its financial obligations.'], ['CR-6', 'BB+', '', 'An obligor rated CR-6, as the first non-investment grade rating, is less vulnerable to\ndefault than other non-investment obligors.'], ['CR-7', 'BB', 'Moderate', "An obligor rated CR-7 can face major uncertainties. Exposure to negative business,\nfinancial, or economic conditions could lead to the obligor's insufficient financial profile\nand a deterioration of the obligor’s ability to meet its financial obligations."], ['CR-8', 'BB-', None, "An obligor rated CR-8 faces major ongoing uncertainties. Exposure to negative\nbusiness, financial, or economic conditions could lead to the obligor's insufficient\nfinancial profile and a deterioration of the obligor’s ability to meet its financial\nobligations."], ['CR-9', 'B+', '', "An obligor rated CR-9 is less vulnerable to default than obligors rated 'CR-10’ or\n‘CR-11'. Significantly negative business, financial, or economic conditions will likely\nweaken the obligor's financial profile and ability to meet its financial obligations."], ['CR-10', 'B', 'Weak', "An obligor rated CR-10 is more vulnerable to default than obligors rated 'CR-9’ but the\nobligor still has the capacity to meet its financial obligations. Negative business,\nfinancial, or economic conditions will likely weaken the obligor's financial profile and\nability to meet its financial obligations."], ['CR-11', 'B-', '', "An obligor rated CR-11 is more vulnerable to default than obligors rated 'CR-9’ or\n‘CR-10’. The obligor still has the capacity to meet its obligations but slightly negative\nbusiness, financial, or economic conditions are more likely to weaken the obligor's\nfinancial profile and ability to meet its financial obligations than a company rated CR-10."], ['CR-12', 'CCC+', 'Very Weak/\nSpecial\nAttention', 'An obligor rated CR-12 faces significant challenges. While such obligors will likely have\nsome positive characteristics, these may be outweighed by large uncertainties or major\nexposures to adverse conditions. The obligor is dependent upon favorable business,\nfinancial, and economic conditions to meet its financial obligations.'], ['CR-13', 'CCC', 'Very Weak/\nSubstandard', 'An obligor rated CR-13 is currently vulnerable to default, and is dependent upon\nsignificantly favorable business, financial, and economic conditions to meet its financial\nobligations. In the event of negative business, financial, or economic conditions, the\nobligor is not likely to meet its financial obligations and rescheduling and/or\nrestructuring is likely to be required.'], ['CR-14', 'CCC-', 'Extremely\nWeak/Doubtful', 'An obligor rated CR-14 is highly vulnerable to default. It is highly likely that a\nrescheduling and/or restructuring are required without which a default under IFC’s\naccounting definition would ensue. In some cases, even though default has not\noccurred yet, cash flow may be insufficient to service debt in full.'], ['CR-15', 'Worse than\nCCC- and D', 'Imminent\nDefault', 'An obligor rated CR-15 is currently extremely vulnerable to nonpayment and there are\nindications that the next payment will not be made before meeting IFC’s accounting\ndefinition of default.'], ['D', '', '/Default', 'An obligor rated D is in payment default according to IFC’s definition of default.']]
+--------------------------------------------------
+
+Page 94
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 94\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nThe following table presents the loans disbursed by credit quality indicator based on risk rating and origination year as of June 30, 2024\nand June 30, 2023 and gross write-offs for the year ended June 30, 2024. The origination year is based on the commitment date that\nrepresents the date that the decision was made to extend credit and IFC entered into a legally binding agreement with the borrower. All\nsubsequent loan disbursements, as well as loan modifications, extensions, and renewals for an associated loan commitment are\nreported based on the original commitment date:\nJune 30, 2024\n(US$ in millions) Loans at Amortized cost basis by Risk class\nVery\nWeak/ Very\nSpecial Weak/ Extremely Imminent Gross\nOriginated during the year Very Attenti Sub- Weak/ Default/ Total write-\nended June 30, Strong Strong Adequate Moderate Weak on standard Doubtful Default Contracts offs\n2024 $ — $ 119 $ 3,519 $ 2,785 $ 1,409 $ 147 $ 20 $ 22 $ 9 $ 8,030 $ —\n2023 — 460 2,161 3,306 2,127 110 6 123 — 8,293 —\n2022 — 356 1,423 2,049 1,270 225 — 31 98 5,452 36\n2021 — — 1,286 1,878 944 8 13 — 8 4,137 —\n2020 69 — 911 897 393 209 77 161 9 2,726 1\nPrior 66 158 1,146 1,018 2,351 388 189 97 449 5,862 58\nTotal $ 135 $ 1,093 $ 10,446 $ 11,933 $ 8,494 $ 1,087 $ 305 $ 434 $ 573 $ 34,500 $ 95\nRevolving loans — — — 1,222 55 30 — — 12 1,319\nRevolving Contracts\nConverted to Term\nContracts — — 22 — 34 — — — — 56\nTotal disbursed loans $ 135 $ 1,093 $ 10,468 $ 13,155 $ 8,583 $ 1,117 $ 305 $ 434 $ 585 $ 35,875\nUnamortized deferred loan origination fees, net and other (146)\nLoans at amortized cost $ 35,729\nJune 30, 2023\n(US$ in millions) Loans at Amortized cost basis by Risk class\nVery\nWeak/ Extremely Imminent\nOriginated during the year Very Special Very Weak/ Weak/ Default/ Total\nended June 30, Strong Strong Adequate Moderate Weak Attention Substandard Doubtful Default Contracts\n2023 $ — $ 590 $ 1,525 $ 2,475 $ 1,559 $ 72 $ 20 $ 4 $ — $ 6,245\n2022 — 470 1,186 2,255 1,471 143 — 62 — 5,587\n2021 — 66 1,456 2,608 1,409 145 21 — 10 5,715\n2020 69 — 1,129 1,196 586 257 59 91 6 3,393\n2019 — 127 295 832 782 182 18 52 52 2,340\nPrior 40 222 885 1,454 2,241 427 166 189 643 6,267\nTotal $ 109 $ 1,475 $ 6,476 $ 10,820 $ 8,048 $ 1,226 $ 284 $ 398 $ 711 $ 29,547\nRevolving Loans — — — 1,569 86 — 25 — — 1,680\nRevolving contracts\nconverted to Term\ncontracts — — 7 10 — — — — — 17\nTotal disbursed loans $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244\nUnamortized deferred loan origination fees, net and other (127)\nLoans at amortized cost $ 31,117\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 94']]
+--------------------------------------------------
+
+Page 94
+Table 2:
+[['2024 $ — $ 119 $ 3,519 $ 2,785 $ 1,409 $ 147 $ 20 $ 22 $ 9 $ 8,030 $ —', None], ['2023 — 460 2,161 3,306 2,127 110 6 123 — 8,293 —', None], ['2022 — 356 1,423 2,049 1,270 225 — 31 98 5,452 36', None], ['2021 — — 1,286 1,878 944 8 13 — 8 4,137 —', None], ['2020 69 — 911 897 393 209 77 161 9 2,726 1', None], ['Prior 66 158 1,146 1,018 2,351 388 189 97 449 5,862 58', None], ['Total $ 135 $ 1,093 $ 10,446 $ 11,933 $ 8,494 $ 1,087 $ 305 $ 434 $ 573 $ 34,500 $ 95', None], ['Revolving loans — — — 1,222 55 30 — — 12 1,319', None], ['Revolving Contracts\nConverted to Term\nContracts — — 22 — 34 — — — — 56', None], ['Total disbursed loans $ 135 $ 1,093 $ 10,468 $ 13,155 $ 8,583 $ 1,117 $ 305 $ 434 $ 585 $ 35,875', None], ['Unamortized deferred loan origination fees, net and other', '(146)'], ['Loans at amortized cost', '$ 35,729']]
+--------------------------------------------------
+
+Page 94
+Table 3:
+[['2023 $ — $ 590 $ 1,525 $ 2,475 $ 1,559 $ 72 $ 20 $ 4 $ — $ 6,245', None], ['2022 — 470 1,186 2,255 1,471 143 — 62 — 5,587', None], ['2021 — 66 1,456 2,608 1,409 145 21 — 10 5,715', None], ['2020 69 — 1,129 1,196 586 257 59 91 6 3,393', None], ['2019 — 127 295 832 782 182 18 52 52 2,340', None], ['Prior 40 222 885 1,454 2,241 427 166 189 643 6,267', None], ['Total $ 109 $ 1,475 $ 6,476 $ 10,820 $ 8,048 $ 1,226 $ 284 $ 398 $ 711 $ 29,547', None], ['Revolving Loans — — — 1,569 86 — 25 — — 1,680', None], ['Revolving contracts\nconverted to Term\ncontracts — — 7 10 — — — — — 17', None], ['Total disbursed loans $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244', None], ['Unamortized deferred loan origination fees, net and other', '(127)'], ['Loans at amortized cost $ 31,117', None]]
+--------------------------------------------------
+
+Page 95
+Table 1:
+[['Geographic Region', None], ['Africa $ — $ 7 $ 638 $ 2,470 $ 3,564 $ 534 $ 181 $ 219 $ 161 $ 7,774', None], ['Asia and Pacific 69 520 4,229 2,844 2,163 62 — 3 43 9,933', None], ['Latin America and the\nCaribbean, and\nEurope — 55 5,031 4,757 1,318 264 85 207 180 11,897', None], ['Middle East, Central\nAsia, Türkiye,\nPakistan, and\nAfghanistan — 19 225 2,113 1,538 257 39 5 201 4,397', None], ['Other 66 492 345 971 — — — — — 1,874', None], ['Total geographic\nregion $ 135 $ 1,093 $ 10,468 $ 13,155 $ 8,583 $ 1,117 $ 305 $ 434 $ 585 $ 35,875', None], ['Unamortized deferred loan origination fees, net and other', '(146)']]
+--------------------------------------------------
+
+Page 95
+Table 2:
+[['Industry Sector', None], ['Manufacturing,\nagribusiness and\nservices $ 135 $ 301 $ 3,973 $ 5,467 $ 1,725 $ 370 $ 64 $ 88 $ 311 $ 12,434', None], ['Financial markets — 737 4,800 6,205 4,146 92 39 25 41 16,085', None], ['Infrastructure and\nnatural resources — 55 1,695 1,483 2,712 655 185 321 229 7,335', None], ['Disruptive technologies\nand funds — — — — — — 17 — 4 21', None], ['Total industry sector $ 135 $ 1,093 $ 10,468 $ 13,155 $ 8,583 $ 1,117 $ 305 $ 434 $ 585 $ 35,875', None], ['Unamortized deferred loan origination fees, net and other', '(146)']]
+--------------------------------------------------
+
+Page 96
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 96\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nJune 30, 2023\nVery\nWeak/\nExtremely Imminent\nVery Special Very Weak/ Weak/ Default/\n(US$ in millions) Strong Strong Adequate Moderate Weak Attention Substandard Doubtful Default Total\nGeographic Region\nAfrica $ — $ 25 $ 394 $ 1,992 $ 3,303 $ 313 $ 205 $ 137 $ 209 $ 6,578\nAsia and Pacific 69 460 3,284 3,250 2,019 192 6 18 78 9,376\nLatin America and the\nCaribbean, and\nEurope — 517 2,515 4,255 1,497 356 98 215 170 9,623\nMiddle East, Central\nAsia, Türkiye,\nPakistan, and\nAfghanistan — — 179 1,537 1,315 365 0 28 254 3,678\nOther 40 473 111 1,365 — — — — — 1,989\nTotal geographic\nregion $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244\nUnamortized deferred loan origination fees, net and other (127)\nLoans at amortized cost $ 31,117\nJune 30, 2023\nVery\nWeak/\nExtremely Imminent\nVery Special Very Weak/ Weak/ Default/\n(US$ in millions) Strong Strong Adequate Moderate Weak Attention Substandard Doubtful Default Total\nIndustry Sector\nManufacturing,\nagribusiness and\nservices $ 109 $ 770 $ 2,992 $ 4,147 $ 1,685 $ 339 $ 223 $ 145 $ 322 $ 10,732\nFinancial markets — 638 2,626 6,676 3,686 155 28 36 52 13,897\nInfrastructure and\nnatural resources — 67 865 1,576 2,763 732 58 217 333 6,611\nDisruptive technologies\nand funds — — — — — — — — 4 4\nTotal industry sector $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244\nUnamortized deferred loan origination fees, net and other (127)\nLoans at amortized cost $ 31,117\nModifications for Borrowers Experiencing Financial Difficulties\nIFC adopted ASU 2022-02 Financial Instruments – Credit Losses (Topic 326), Troubled Debt Restructurings and Vintage Disclosures\neffective July 1, 2023. All related disclosures for the year ended June 30, 2024 are provided on a prospective basis in accordance with\nthe ASU. These disclosures do not include loan modifications and the effects related to suspension and standstill agreements where\nprincipal and interest payments are temporarily suspended. As of June 30, 2024 amortized cost of these loans amounted to $71 million.\nLoans are modified through changes in interest rates, repayment schedules, and maturity date, in addition to reductions of loan\nprincipal and waiver of accrued interest. For loans at amortized cost, the following table presents information related to modifications for\nborrowers experiencing financial difficulties, per major modification types (including interest rate reduction, other-than-insignificant\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 96']]
+--------------------------------------------------
+
+Page 96
+Table 2:
+[['Geographic Region', None, None], ['Africa $ — $ 25 $ 394 $ 1,992 $ 3,303 $ 313 $ 205 $ 137 $ 209 $ 6,578', None, None], ['Asia and Pacific 69 460 3,284 3,250 2,019 192 6 18 78 9,376', None, None], ['Latin America and the\nCaribbean, and\nEurope — 517 2,515 4,255 1,497 356 98 215 170 9,623', None, None], ['Middle East, Central\nAsia, Türkiye,\nPakistan, and\nAfghanistan — — 179 1,537 1,315 365 0 28 254 3,678', None, None], ['Other 40 473 111 1,365 — — — — — 1,989', None, None], ['Total geographic\nregion $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244', None, None], ['Unamortized deferred loan origination fees, net and other', None, '(127)'], ['Loans at amortized cost', '$ 31,117', None]]
+--------------------------------------------------
+
+Page 96
+Table 3:
+[['Industry Sector', None, None], ['Manufacturing,\nagribusiness and\nservices $ 109 $ 770 $ 2,992 $ 4,147 $ 1,685 $ 339 $ 223 $ 145 $ 322 $ 10,732', None, None], ['Financial markets — 638 2,626 6,676 3,686 155 28 36 52 13,897', None, None], ['Infrastructure and\nnatural resources — 67 865 1,576 2,763 732 58 217 333 6,611', None, None], ['Disruptive technologies\nand funds — — — — — — — — 4 4', None, None], ['Total industry sector $ 109 $ 1,475 $ 6,483 $ 12,399 $ 8,134 $ 1,226 $ 309 $ 398 $ 711 $ 31,244', None, None], ['Unamortized deferred loan origination fees, net and other', None, '(127)'], ['Loans at amortized cost', '$ 31,117', None]]
+--------------------------------------------------
+
+Page 98
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 98\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nFor the Year ended June 30, 2024\nPrincipal\nInterest Rate Forgive- Other than Insignificant\n(US$ in millions) Reduction Term Extension ness Payment Delay\nWeighted Average Weighted Weighted\nInterest Rate Average Months Principal Amount Average Months\nReduction % Extended Forgiven Delayed Delayed\nAfrica\nManufacturing, agribusiness and services 1.7 % 64 $ 5 $ 39 44\nInfrastructure and natural resources — 42 3 8 12\nTotal Africa 1.7 106 8 47 56\nAsia and Pacific\nManufacturing, agribusiness and services — — — 8 6\nInfrastructure and natural resources — 36 — 33 36\nTotal Asia and Pacific — 36 — 41 42\nLatin America and the Caribbean, and Europe\nManufacturing, agribusiness and services 8.4 91 — 106 26\nFinancial markets — 12 — 4 12\nInfrastructure and natural resources 2.4 152 15 16 177\nTotal Latin America and the Caribbean, and\nEurope 10.8 255 15 126 215\nMiddle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan\nInfrastructure and natural resources — 36 — 67 34\nTotal Middle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan — 36 — 67 34\nTotal disbursed loans 12.5 % 433 $ 23 $ 281 347\nFor loans at amortized cost, the following table presents an aging analysis of loan modifications made for borrowers experiencing\nfinancial difficulty from July 1, 2023 through June 30, 2024, presented by geographic region and industry sector as of June 30, 2024.\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 98']]
+--------------------------------------------------
+
+Page 98
+Table 2:
+[['Principal\nInterest Rate Forgive-\n(US$ in millions) Reduction Term Extension ness', 'Other than Insignificant\nPayment Delay'], ['Weighted Average Weighted Weighted\nInterest Rate Average Months Principal Amount Average Months\nReduction % Extended Forgiven Delayed Delayed', None], ['Africa', None], ['Manufacturing, agribusiness and services 1.7 % 64 $ 5 $ 39 44', None], ['Infrastructure and natural resources — 42 3 8 12', None], ['Total Africa 1.7 106 8 47 56', None], ['Asia and Pacific', None], ['Manufacturing, agribusiness and services — — — 8 6', None], ['Infrastructure and natural resources — 36 — 33 36', None], ['Total Asia and Pacific — 36 — 41 42', None], ['Latin America and the Caribbean, and Europe', None], ['Manufacturing, agribusiness and services 8.4 91 — 106 26', None], ['Financial markets — 12 — 4 12', None], ['Infrastructure and natural resources 2.4 152 15 16 177', None], ['Total Latin America and the Caribbean, and\nEurope 10.8 255 15 126 215', None], ['Middle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan', None], ['Infrastructure and natural resources — 36 — 67 34', None], ['Total Middle East, Central Asia, Türkiye, Pakistan,\nand Afghanistan — 36 — 67 34', None], ['Total disbursed loans 12.5 % 433 $ 23 $ 281 347', None]]
+--------------------------------------------------
+
+Page 99
+Table 1:
+[['Interest Rate\nReduction,\nTerm\nExtension and\nPayment Payment Total Loan\n(US$ in millions) Delay Delay Modification a', None], ['Africa', None], ['Manufacturing, agribusiness and services $ 3 $ — $ 3', None], ['Total Africa 3', '— — 3'], ['Latin America and the Caribbean, and Europe', None], ['Manufacturing, agribusiness and services — 24 24', None], ['Total Latin America and the Caribbean, and Europe —', '— 24 24'], ['Middle East, Central Asia, Türkiye, Pakistan, and Afghanistan', None], ['Infrastructure and natural resources — 25 25', None], ['Total Middle East, Central Asia, Türkiye, Pakistan, and Afghanistan —', '— 25 25'], ['Total $ 3 $ 49 $ 52', None]]
+--------------------------------------------------
+
+Page 100
+Table 1:
+[['', 'INTERNATIONAL FINANCE CORPORATION Page 100\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS\nNOTE E – LOANS AND GUARANTEES (continued)\nTroubled Debt Restructurings Disclosures Prior to the Adoption of ASU 2022-02\nLoans are modified through changes in interest rates, repayment schedules, and maturity date, in addition to reductions of loan\nprincipal and waiver of accrued interest. The following table presents information related to loan modifications, including past due\namounts capitalized and written off, during the years ended June 30, 2023 and June 30, 2022 that are considered Troubled Debt\nRestructurings (TDRs), prior to the adoption of ASU 2022-02, as defined by the previous accounting guidance in effect at that time:\nFor the year ended June 30,\n2023 2022\nNumber Number\n(US$ in millions) of TDRs Amount of TDRs Amount\nLoans modified as TDRs 20 $ 568 31 $ 792\nLoan at amortized cost modifications considered TDRs during the years ended June 30, 2023 and June 30, 2022 is summarized by\ngeographic region and industry sector as follows:\nFor the year ended June 30, 2023\nManufacturing, Infrastructure Total Loan\nagribusiness Financial and natural modifications\n(US$ in millions) and services markets resources considered TDRs a\nGeographic Region\nAfrica $ 151 $ — $ — $ 151\nAsia and Pacific 70 9 14 93\nMiddle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan — — 160 160\nLatin America and the Caribbean, and Europe — 5 159 164\nTotal $ 221 $ 14 $ 333 $ 568\nFor the year ended June 30, 2022\nTotal Loan\nManufacturing, Infrastructure\nagribusiness Financial and natural modifications\n(US$ in millions) and services markets resources considered TDRs a\nGeographic Region\nAfrica $ 112 $ — $ 53 $ 165\nAsia and Pacific 106 — 24 130\nMiddle East, Central Asia, Türkiye, Pakistan, and\nAfghanistan — 46 240 286\nLatin America and the Caribbean, and Europe 98 21 92 211\nTotal $ 316 $ 67 $ 409 $ 792\n___________\na Includes all components of amortized cost except unamortized fees which are considered insignificant.\nFollowing is a summary of loans that defaulted during the years ended June 30, 2023 and June 30, 2022 that had been modified in a\ntroubled debt restructuring within 12 months prior to the date of default:\nFor the year ended June 30,\n(US$ in millions, except for number of loans) 2023 2022\nLoan amount $ 137 $ 43\nNumber of Loans 12 7\nThe notes to consolidated financial statements are an integral part of these statements.', 'Page 100']]
+--------------------------------------------------
+
+Page 104
+Table 1:
+[['Interest income not recognized on nonaccruing debt securities $ 9', '$ 1', '$ 3'], ['Interest income recognized on debt securities in nonaccrual status related to current\nand prior years, on a cash basis 1', '—', '1']]
+--------------------------------------------------
+
+Page 113
+Table 1:
+[['Risk Management purposes:', None], ['Investments a Currency swaps, currency forward contracts, Manage currency and interest rate risk\ninterest rate swaps, options, swaptions and futures\ncontracts, to-be-announced (TBA) securities', None], ['Loans Currency swaps and interest rate swaps Manage currency risk and interest rate risk\nbetween loans and borrowings', None], ['Currency swaps and interest rate swaps Manage currency risk and interest rate risk\nBorrowings\nbetween loans and borrowings', None], ['Other asset/liability\nmanagement', "Currency swaps and interest rate swaps Manage currency risk and duration of IFC's\nequity"], ['Other purposes:', None], ['Currency swaps, currency forward contracts and Assist clients in managing risks\nClient operations\ninterest rate swaps', None]]
+--------------------------------------------------
+
+Page 115
+Table 1:
+[['IFC Local Currency Borrowings IFC Yield Curve Decrease in Fair Value', None, None], ['Interest Rate Swaps (hedging loans Yield Curve Points Increase in Fair Value\nand liquid assets)', None, None], ['Interest Rate Swaps (hedging Yield Curve Points Decrease in Fair Value\nborrowings)', None, None], ['Currency Swaps (hedging loans and Yield Curve and Exchange Rates Increase in Fair Value\nliquid assets)', None, None], ['Currency Swaps (hedging borrowings) Yield Curve and Exchange Rates Decrease in Fair Value', None, None], ['Debt Securities and Loans', 'Discount Rates, Credit Default Spreads Decrease in Fair Value', None], [None, 'Valuation Multiple, Recovery Rates', 'Increase in Fair Value'], ['', 'Cost of equity, discounts for lack of Decrease in Fair Value\nmarketability, weighted average cost of capital', None], ['Equity Securities and Equity Related\nDerivatives', 'Growth rates, return on assets, perpetual Increase in Fair Value\ngrowth rates, EV/EBITDA, price to book value\nand other valuation multiples and volatilities', None]]
+--------------------------------------------------
+
+Page 120
+Table 1:
+[['Financial assets', '', ''], ['Cash and due from banks, time deposits, trading securities and\nsecurities purchased under resale agreements and receivable\nfor cash collateral pledged $ 40,314', '$ 40,314', '$ 47,478 $ 47,478'], ['Investments:', '', ''], ['Loans at amortized cost, net of reserve against losses 34,648', '35,711', '29,908 30,369'], ['Loans accounted for at fair value under the Fair Value Option 1,789', '1,789', '1,506 1,506'], ['Total loans 36,437', '37,500', '31,414 31,875'], ['Equity investments accounted for at fair value 11,121 a', '11,118', '10,778 a 10,776'], ['Debt securities accounted for at fair value as available-for-sale 811', '811', '1,373 1,373'], ['Debt securities accounted for at fair value under the Fair Value\nOption 10,378', '10,378', '7,937 7,937'], ['Total debt securities 11,189', '11,189', '9,310 9,310'], ['Total investments $ 58,747', '$ 59,807', '$ 51,502 $ 51,961'], ['Derivative assets:', '', ''], ['Borrowings-related 183', '183', '2,795 2,795'], ['Liquid asset portfolio-related and other 365', '365', '433 433'], ['Investment-related 1,978', '1,978', '1,977 1,977'], ['Client risk management-related 428', '428', '517 517'], ['Total derivative assets $ 2,954', '$ 2,954', '$ 5,722 $ 5,722'], ['Other investment-related financial assets —', '2', '— 3'], ['Financial liabilities', '', ''], ['Securities sold under repurchase agreements and payable for\ncash collateral received $ 1,541', '$ 1,541', '$ 6,631 $ 6,631'], ['Market, IBRD, IDA and other borrowings outstanding 55,755', '55,754', '52,443 52,433'], ['Derivative liabilities:', '', ''], ['Borrowings-related 6,648', '6,648', '10,032 10,032'], ['Liquid asset portfolio-related and other 77', '77', '241 241'], ['Investment-related 312', '312', '523 523'], ['Client risk management-related 319', '319', '399 399'], ['Total derivative liabilities $ 7,356', '$ 7,356', '$ 11,195 $ 11,195']]
+--------------------------------------------------
+
+Page 132
+Table 1:
+[['A', 's of June 30, 2024, undisbursed donor funds of $575 million ($574 million as of June 30, 20'], ['undisbursed donor funds are refundable, a corresponding liability is recorded in other liabilities', None]]
+--------------------------------------------------
+
+Page 140
+Table 1:
+[['Cash collateral received', '$ 498', '$ 185']]
+--------------------------------------------------
+
+Page 140
+Table 2:
+[['Cash collateral pledged', '1,220', '5,170']]
+--------------------------------------------------
+
+Page 140
+Table 3:
+[['Repurchase agreements', None, None], ['U.S. Treasury securities $ — $ 191 $ 331 $ 529 $ 1,051', None, None], ['Total Repurchase agreements $ — $ 191 $ 331 $ 529 $ 1,051', None, None], ['', 'Plus cash collateral payable', '498'], ['', 'Less: accrued interest on cash collateral and repos, net.', '(8)'], ['', 'Securities sold under repurchase agreements and\npayable for cash collateral received', '$ 1,541']]
+--------------------------------------------------
+
+Page 141
+Table 1:
+[['Repurchase agreements', None, None], ['U.S. Treasury securities $ — $ 1,479 $ 3,530 $ 1,474 $ 6,483', None, None], ['Total Repurchase agreements $ — $ 1,479 $ 3,530 $ 1,474 $ 6,483', None, None], ['', 'Plus cash collateral payable', '185'], ['', 'Less: accrued interest on cash collateral and repos, net.', '$ (37)'], ['', 'Securities sold under repurchase agreements and\npayable for cash collateral received', '$ 6,631']]
+--------------------------------------------------
+
+Page 143
+Table 1:
+[['', 'Algeria', '15', '303,557', '5,557', '309,114'], ['', 'Angola', '12', '1,115,087', '0', '1,115,087'], ['', 'Benin', '16', '382,514', '0', '382,514'], ['', 'Botswana', '9', '102,952', '0', '102,952'], ['', 'Burkina Faso', '33', '1,541,083', '0', '1,541,083'], ['', 'Burundi', '11', '68,648', '7,500', '76,148'], ['', 'Cabo Verde', '9', '65,941', '0', '65,941'], ['', 'Cameroon', '47', '1,081,199', '471,500', '1,552,699'], ['', 'Central African Republic', '1', '9,880', '0', '9,880'], ['', 'Chad', '13', '170,314', '13,900', '184,214'], ['', 'Comoros', '1', '14,888', '0', '14,888'], ['', 'Congo, Democratic Republic of', '37', '807,086', '143,800', '950,886'], ['', 'Congo, Republic of', '12', '164,432', '25,000', '189,432'], ['', "Côte d'Ivoire", '88', '1,623,509', '175,275', '1,798,783'], ['', 'Djibouti', '2', '9,290', '0', '9,290'], ['', 'Egypt, Arab Republic of', '152', '5,922,853', '1,133,389', '7,056,242'], ['', 'Eritrea', '1', '949', '0', '949'], ['', 'Eswatini', '9', '47,779', '0', '47,779'], ['', 'Ethiopia', '27', '982,657', '46,336', '1,028,993'], ['', 'Gabon', '7', '342,668', '110,000', '452,668'], ['', 'Gambia, The', '10', '47,270', '0', '47,270'], ['', 'Ghana', '96', '3,559,204', '913,750', '4,472,954'], ['', 'Guinea', '26', '705,750', '191,000', '896,750'], ['', 'Guinea-Bissau', '5', '9,156', '0', '9,156'], ['', 'Kenya', '151', '5,121,472', '278,936', '5,400,408'], ['', 'Lesotho', '2', '454', '0', '454'], ['', 'Liberia', '15', '283,660', '0', '283,660'], ['', 'Madagascar', '31', '525,449', '21,000', '546,449'], ['', 'Malawi', '24', '300,692', '9,500', '310,192'], ['', 'Mali', '39', '383,483', '40,000', '423,483'], ['', 'Mauritania', '18', '241,093', '79,503', '320,595'], ['', 'Mauritius', '21', '510,203', '96', '510,299'], ['', 'Morocco', '65', '1,859,972', '526,934', '2,386,905'], ['', 'Mozambique', '36', '615,717', '136,913', '752,630'], ['', 'Namibia', '10', '198,391', '0', '198,391'], ['', 'Niger', '8', '97,612', '0', '97,612'], ['', 'Nigeria', '149', '23,789,869', '1,578,005', '25,367,874'], ['', 'Rwanda', '28', '359,611', '10,000', '369,611'], ['', 'São Tomé and Príncipe', '2', '2,051', '0', '2,051']]
+--------------------------------------------------
+
+Page 144
+Table 1:
+[['', 'Senegal', '61', '1,042,871', '177,194', '1,220,065'], ['', 'Seychelles', '8', '49,443', '12,000', '61,443'], ['', 'Sierra Leone', '14', '223,622', '25,000', '248,622'], ['', 'Somalia', '2', '975', '0', '975'], ['', 'South Africa', '132', '7,185,105', '190,025', '7,375,130'], ['', 'South Sudan', '2', '8,750', '0', '8,750'], ['', 'Sudan', '6', '27,268', '6,489', '33,757'], ['', 'Tanzania', '73', '1,391,697', '15,541', '1,407,237'], ['', 'Togo', '23', '459,426', '0', '459,426'], ['', 'Tunisia', '38', '637,334', '427,228', '1,064,561'], ['', 'Uganda', '60', '684,944', '86,788', '771,732'], ['', 'Zambia', '51', '546,883', '20,286', '567,169'], ['', 'Zimbabwe', '51', '284,262', '99,000', '383,262'], ['', 'Regional Investments: Africa', '201', '6,396,690', '82,182', '6,478,872'], ['Central Asia and Türkiye', None, None, None, None, None], ['', 'Kazakhstan', '40', '1,859,079', '302,933', '2,162,012'], ['', 'Kyrgyz Republic', '19', '177,826', '0', '177,826'], ['', 'Tajikistan', '23', '238,363', '0', '238,363'], ['', 'Türkiye', '236', '23,492,494', '4,235,087', '27,727,581'], ['', 'Turkmenistan', '1', '35,000', '0', '35,000'], ['', 'Uzbekistan', '34', '997,640', '22,900', '1,020,540'], ['', 'Regional Investments:\nCentral Asia and Türkiye', '3', '60,000', '0', '60,000'], ['East Asia and the Pacific', None, None, None, None, None], ['', 'Cambodia', '21', '813,991', '660,727', '1,474,719'], ['', 'China', '357', '14,835,293', '2,735,933', '17,571,226'], ['', 'Fiji', '12', '57,493', '2,500', '59,993'], ['', 'Indonesia', '159', '6,492,207', '3,149,331', '9,641,538'], ['', 'Kiribati', '1', '1,798', '0', '1,798'], ['', 'Korea, Republic of', '53', '1,208,449', '195,700', '1,404,149'], ['', "Lao People's Democratic\nRepublic", '16', '132,202', '10,000', '142,202'], ['', 'Malaysia', '13', '204,868', '5,389', '210,258'], ['', 'Mongolia', '22', '1,437,739', '976,428', '2,414,167'], ['', 'Myanmar', '32', '874,352', '20,000', '894,352'], ['', 'Papua New Guinea', '13', '412,139', '25,000', '437,139'], ['', 'Philippines', '129', '4,478,604', '718,470', '5,197,073'], ['', 'Samoa', '8', '22,097', '0', '22,097'], ['', 'Solomon Islands', '3', '55,000', '0', '55,000'], ['', 'Thailand', '103', '4,255,877', '1,763,419', '6,019,297'], ['', 'Timor-Leste', '3', '8,000', '0', '8,000'], ['', 'Tonga', '1', '6,787', '0', '6,787'], ['', 'Vanuatu', '4', '18,104', '0', '18,104'], ['', 'Viet Nam', '94', '13,622,872', '756,706', '14,379,578'], ['', 'Regional Investments:\nEast Asia and the Pacific', '90', '2,728,909', '0', '2,728,909']]
+--------------------------------------------------
+
+Page 145
+Table 1:
+[['', 'Albania', '23', '562,391', '78,613', '641,004'], ['', 'Armenia', '23', '832,509', '0', '832,509'], ['', 'Azerbaijan', '27', '619,654', '212,930', '832,584'], ['', 'Belarus', '21', '809,388', '18,000', '827,388'], ['', 'Bosnia and Herzegovina', '33', '358,576', '10,578', '369,154'], ['', 'Bulgaria', '32', '1,090,476', '183,647', '1,274,123'], ['', 'Croatia', '24', '1,130,465', '228,199', '1,358,664'], ['', 'Georgia', '34', '1,270,321', '49,825', '1,320,146'], ['', 'Kosovo', '11', '93,601', '0', '93,601'], ['', 'Moldova', '18', '285,454', '45,000', '330,454'], ['', 'Montenegro', '7', '100,203', '0', '100,203'], ['', 'North Macedonia', '17', '304,463', '25,000', '329,463'], ['', 'Poland', '63', '1,510,866', '135,317', '1,646,183'], ['', 'Romania', '70', '5,528,633', '867,489', '6,396,122'], ['', 'Russian Federation', '194', '8,797,461', '2,523,372', '11,320,833'], ['', 'Serbia', '47', '2,165,216', '369,723', '2,534,939'], ['', 'Ukraine', '69', '3,880,379', '976,251', '4,856,630'], ['', 'Regional Investments: Europe', '73', '4,819,248', '349,773', '5,169,021'], ['Latin America and the Caribbean', None, None, None, None, None], ['', 'Antigua and Barbuda', '1', '30,000', '0', '30,000'], ['', 'Argentina', '213', '8,520,810', '6,161,343', '14,682,152'], ['', 'Barbados', '7', '29,025', '0', '29,025'], ['', 'Belize', '4', '33,066', '11,000', '44,066'], ['', 'Bolivia', '33', '627,030', '155,500', '782,530'], ['', 'Brazil', '356', '28,110,105', '10,141,753', '38,251,858'], ['', 'Chile', '84', '4,876,516', '1,578,155', '6,454,671'], ['', 'Colombia', '168', '6,843,121', '1,748,198', '8,591,319'], ['', 'Costa Rica', '37', '1,928,795', '104,709', '2,033,504'], ['', 'Dominica', '1', '700', '0', '700'], ['', 'Dominican Republic', '39', '1,038,822', '241,850', '1,280,672'], ['', 'Ecuador', '32', '2,160,235', '197,740', '2,357,975'], ['', 'El Salvador', '23', '2,408,259', '256,000', '2,664,259'], ['', 'Grenada', '2', '8,000', '0', '8,000'], ['', 'Guatemala', '33', '3,588,034', '230,000', '3,818,034'], ['', 'Guyana', '8', '76,417', '0', '76,417'], ['', 'Haiti', '17', '146,735', '26,000', '172,735'], ['', 'Honduras', '29', '2,426,121', '142,901', '2,569,022'], ['', 'Jamaica', '25', '557,846', '194,244', '752,090'], ['', 'Mexico', '267', '10,522,525', '2,985,750', '13,508,274'], ['', 'Nicaragua', '28', '1,780,985', '206,036', '1,987,021'], ['', 'Panama', '37', '2,916,237', '153,300', '3,069,537'], ['', 'Paraguay', '20', '2,040,349', '53,000', '2,093,349'], ['', 'Peru', '85', '3,329,061', '1,062,099', '4,391,161'], ['', 'St. Lucia', '5', '80,422', '35,000', '115,422'], ['', 'Suriname', '1', '4,066', '0', '4,066'], ['', 'Trinidad and Tobago', '19', '433,654', '235,000', '668,654'], ['', 'Uruguay', '22', '475,842', '120,000', '595,842']]
+--------------------------------------------------
+
+Page 146
+Table 1:
+[['', 'Venezuela, Republica Bolivariana\nde', '39', '897,230', '703,791', '1,601,021'], ['', 'Regional Investments: Latin\nAmerica and the Caribbean', '112', '3,001,074', '350,000', '3,351,074'], ['Middle East', None, None, None, None, None], ['', 'Afghanistan', '10', '249,254', '0', '249,254'], ['', 'Bahrain', '2', '340,271', '0', '340,271'], ['', 'Iran, Islamic Republic of', '11', '63,343', '8,199', '71,542'], ['', 'Iraq', '21', '1,368,985', '486,270', '1,855,255'], ['', 'Jordan', '75', '2,539,508', '725,617', '3,265,125'], ['', 'Lebanon', '43', '6,323,413', '230,430', '6,553,843'], ['', 'Oman', '7', '319,853', '57,000', '376,853'], ['', 'Pakistan', '160', '10,623,657', '759,249', '11,382,906'], ['', 'Saudi Arabia', '13', '726,277', '0', '726,277'], ['', 'Syrian Arab Republic', '4', '24,732', '0', '24,732'], ['', 'United Arab Emirates', '20', '485,252', '30,000', '515,252'], ['', 'West Bank and Gaza', '29', '570,606', '10,000', '580,606'], ['', 'Yemen, Republic of', '17', '281,004', '96,105', '377,109'], ['', 'Regional Investments:\nMiddle East', '35', '1,537,775', '3,000', '1,540,775'], ['South Asia', None, None, None, None, None], ['', 'Bangladesh', '82', '8,661,165', '199,120', '8,860,286'], ['', 'Bhutan', '6', '54,517', '0', '54,517'], ['', 'India', '611', '24,168,394', '1,743,640', '25,912,033'], ['', 'Maldives', '10', '293,250', '8,500', '301,750'], ['', 'Nepal', '34', '573,221', '63,520', '636,741'], ['', 'Sri Lanka', '54', '2,036,973', '128,616', '2,165,588'], ['', 'Regional Investments:\nSouth Asia', '12', '312,023', '15,000', '327,023'], ['Worldwide', None, None, None, None, None], ['', 'Australia', '2', '975', '0', '975'], ['', 'Cyprus', '8', '32,181', '645', '32,827'], ['', 'Czechia', '18', '455,176', '245,588', '700,764'], ['', 'Estonia', '11', '137,806', '11,855', '149,661'], ['', 'Finland', '4', '1,233', '1,915', '3,148'], ['', 'Greece', '15', '998,689', '40,131', '1,038,821'], ['', 'Hungary', '34', '790,041', '70,335', '860,376'], ['', 'Israel', '1', '10,500', '0', '10,500'], ['', 'Italy', '1', '960', '0', '960'], ['', 'Latvia', '7', '80,967', '35,000', '115,967'], ['', 'Lithuania', '11', '95,041', '9,309', '104,350'], ['', 'Portugal', '7', '51,811', '11,000', '62,811'], ['', 'Slovak Republic', '7', '115,544', '0', '115,544'], ['', 'Slovenia', '13', '292,535', '47,383', '339,918'], ['', 'Spain', '5', '19,043', '1,685', '20,728'], ['', 'Regional Investments:\nWorldwide', '229', '30,804,668', '539,134', '31,343,802'], ['', 'Other2', '9', '367,868', '1,400', '369,268'], ['', '', '7,621', '369,693,745', '61,386,880', '431,080,625']]
+--------------------------------------------------

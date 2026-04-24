@@ -1,0 +1,34 @@
+What is IFC?
+Question: What is IFC?
+Retrieved Page: 132
+Answer: IFC stands for the International Finance Corporation...
+Correct?: Partially
+Reason: The answer correctly says IFC is the International Finance Corporation, but the rest of the answer is not the best description because the retrieval found a less relevant chunk.
+
+What is IFC's mission?
+Question: What is IFC's mission?
+Retrieved Page: 21
+Answer: IFC's mission is to address the most urgent challenges in private sector development...
+Correct?: Partially
+Reason: The answer is related to IFC's work, but it misses IFC's actual mission statement: "to end extreme poverty and boost shared prosperity."
+
+What was IFC's net income in FY24?
+Question: What was IFC's net income in FY24?
+Retrieved Page: 44
+Answer: IFC's net income in FY24 was $1,485 million.
+Correct?: Yes
+Reason: The retrieved chunk contained the exact FY24 net income value and the answer extracted it correctly.
+
+How many member countries does IFC have?
+Question: How many member countries does IFC have?
+Retrieved Page: 5
+Answer: IFC has 186 member countries.
+Correct?: Yes
+Reason: The retrieved chunk clearly stated that IFC is owned by 186 member countries, and the answer matched exactly.
+
+
+Question: What regions are discussed in the report?
+Retrieved Page: 135
+Answer: The system could not determine the regions discussed.
+Correct?: No
+Reason: The retriever returned an irrelevant chunk from page 135, so Gemini did not have enough information to answer.
