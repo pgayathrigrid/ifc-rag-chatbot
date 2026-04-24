@@ -2,6 +2,7 @@ streamlit
 faiss-cpu
 numpy
 sentence-transformers
+google-genai
 google-generativeai
 rank-bm25
 pymupdf
